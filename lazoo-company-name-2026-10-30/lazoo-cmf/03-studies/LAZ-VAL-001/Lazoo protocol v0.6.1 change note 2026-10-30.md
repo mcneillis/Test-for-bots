@@ -6,9 +6,9 @@ At 08:45 her words were "DPO Martin Hickley". The Data Protection Officer is Mar
 
 At 08:46 her words were "Yes to decline heart rate and still use the patch". A person may decline heart rate and still use the patch and the app. That choice is asked and recorded separately. Heart rate stays out of this study, so its aims and sample size are unchanged.
 
-The decline sentence describes the CBT-14 product outside this study. Participants in LAZ-VAL-001 are not given the chest patch.
+Dated note, 30 October 2026: The decline sentence describes the CBT-14 product outside this study. Participants in LAZ-VAL-001 are not given the chest patch.
 
-Third. Company number 12467350 changed its registered name. Companies House (https://find-and-update.company-information.service.gov.uk/company/12467350) shows the current name SHC SLEEP SOLUTIONS LIMITED. The previous name was SLEEP AND HEALTH CLINIC APP LIMITED, from 16 December 2020 to 27 October 2026. The filing history (https://find-and-update.company-information.service.gov.uk/company/12467350/filing-history) has an entry dated 27 October 2026, type CERTNM: company name changed sleep and health clinic app LIMITED; certificate issued on 27/10/26; NM01, change of name by resolution; RES15, change of company name resolution on 2026-10-26.
+Dated note, 30 October 2026: ~~Third.~~ Company number 12467350 changed its registered name. Companies House (https://find-and-update.company-information.service.gov.uk/company/12467350) shows the current name SHC SLEEP SOLUTIONS LIMITED. The previous name was SLEEP AND HEALTH CLINIC APP LIMITED, from 16 December 2020 to 27 October 2026. The filing history (https://find-and-update.company-information.service.gov.uk/company/12467350/filing-history) has an entry dated 27 October 2026, type CERTNM: company name changed sleep and health clinic app LIMITED; certificate issued on 27/10/26; NM01, change of name by resolution; RES15, change of company name resolution on 2026-10-26.
 
 Dated note, 30 October 2026: publishing the Data Protection Officer's contact details and telling the ICO (UK GDPR Art 37(7)) wait for Sara McNeillis's yes. Martin Hickley has not been contacted from this work. His confirmation of the Art 6 and Art 9 basis for heart rate is still open, as are his Art 38 and 39 tasks (involvement, advice, monitoring).
 

@@ -32,9 +32,9 @@ b82eb62d53809f133e129e7d9bab82ab6f094f544a8fecef6409752dcd3450e9  lazoo-cmf/03-s
 5712750f277ca52cbdb4e4d03acb4e897c13102faf02749c816be94099706c75  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.5_human.md
 dfd092bdfd1e0ea0d5c4c0aa43cecde14397487b9f7ad2e5aa949be587defed2  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.6-heart-rate-amendment-DRAFT.docx
 5d994cd0a07794e2ff1a3e44cd33ead439d41872c2451e68095bf030946bb916  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.6-heart-rate-amendment-DRAFT.md
-d02278d8c64c6bee9f4cc62cb404812687ab24af1601c36126e1cd05c2bf0685  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.docx
-c0ad16e2dd17d9fafba6525b95869da19c447fa7861e11ec9f1b21e925a7fda8  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md
-ec4bb0aeb275378aab8c0dd50bae8202268e5a1d9ef54dcc7e320875174f0b1f  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md
+a535fb902f5a19119d130877ecc9ba722aa1e20b16ce032a6696633a8564d7f9  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.docx
+a96dac7276dbb4dda35a062abd9557a61b3a6e47372a975485dea8fef7e8644a  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md
+079500c3cb648348444a3d6c814660960ab9e6595b79fe0f1123e7b9fcc87a72  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md
 af876dc535c8836f51a287b7f9aab60a22ecef1380b54e4195e753bf925b6459  lazoo-cmf/03-studies/LAZ-VAL-001/sponsor-documents/README-sources.md
 737df04cbb828c8fdf2e1a6c2017ae0e249aa5a8b7b903177f893b804619dadc  lazoo-cmf/04-templates/consent-four-toggles.md
 f348dabef7033cccf5d85eb1174cbf7b4b02316453834dba3404eb69ada30642  lazoo-cmf/04-templates/data-dictionary.md
@@ -76,7 +76,7 @@ cbaa76e1f48d127bab4714f62cd8d6f0925cd36c3a1306c5c9ff55214afc4bcd  lazoo-cmf/app-
 e4061d32325b0631890dddcfdc28b1cc30a79f761de5071a7d047d599dd6c91f  lazoo-cmf/app-ltd-shells/04-tmf/SHA-TMF-template.docx
 c8ea894a1fc2aa201c958af0017657e78604d7c5bf9ef3c8dc680f92fed3b376  lazoo-cmf/app-ltd-shells/README.md
 536afea6dbff744b4a238a8acd253de1228df4d904d83b9d7a4b647a3384edfc  lazoo-cmf/do-not-send/QUARANTINE-NOT-CONTROLLED-LAZ-VAL-001-protocol-v0.2.docx
-618d8bbe17929f1d72ada178da7bb501f077189cf97b055cce269d23d48a8ade  lazoo-cmf/grants-layer2-nihr/README.md
+3d4a36a57437c4c6b08e169c67a115b3d14e7fc4e677f37f070a7363e2a85a89  lazoo-cmf/grants-layer2-nihr/README.md
 1f9c2287be2dbb8de1cc06dfcf9e397ca62233b96d15ab4dad943df809856e5f  lazoo-cmf/tmp-roadmap-revA.txt
 3720b52ea17d07a81e4620c8a929f5ed98a1a1ff99a49ffea7fe8627101b45d5  lazoo-cmf/uclh-feasibility-separate-sponsor/README.md
 f6735031293db0fa20d8abe767570fad516b5de4dc50a3b2702aedc03ad67db7  lazoo-cmf/uclh-feasibility-separate-sponsor/UCLH-PIS-v0.2-recut.md

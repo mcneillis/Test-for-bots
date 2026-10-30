@@ -1,3 +1,5 @@
+Dated note, 30 October 2026: the two NIHR outline PDFs are kept as filed and are not edited. Where they name Sleep and Health Clinic App Limited, that is company 12467350, renamed SHC Sleep Solutions Limited on 27 October 2026. 'Sleep and Health App Limited (SHA)' in NIHR514007 is the wording as filed. Sleep and Health Clinic Ltd (08904119) is a separate company.
+
 Change note 5 October 2026: Sara McNeillis lock. Working position is MHRA SaMD Class IIa (class 2a), one layer only. This replaces the 3 October 2026 Class IIb working position. Clinical claims, purpose, pregnancy in/out, and Gantt claim slots left as “TBD — pending Sara paste.” Pack stays OPEN. Earlier dates in this file are kept.
 
 # Grants file

@@ -58,7 +58,7 @@ This is the file whose hash begins 546e9cac. It is in the staged folder and in b
 
 ## Checks
 
-Word. For each of the 35 edited Word files, every paragraph in the backup is still present, in order. Where a paragraph changed, the old paragraph text is still inside the new paragraph, with text inserted and strike formatting added on the old name. One new paragraph was added in the version 0.6.1 Word protocol, after the status line. No paragraph was removed. Headers, footers and the document creator field were included where they named the company. The creator field cannot carry Word strike formatting, so the old name is kept there and the new name is marked with ~~ ~~.
+Word. For each of the 35 edited Word files, every paragraph in the backup is still present, in order. Where a paragraph changed, the old paragraph text is still inside the new paragraph, with text inserted and strike formatting added on the old name. No paragraph was removed. On the re-check of the version 0.6.1 Word protocol, the "Name given for this draft" paragraph and the 29 October question and note match the backup, including the original strike formatting. The sponsor line is still the edited one. Two paragraphs have been added: the status note, and the 30 October note under the 29 October note. Headers, footers and the document creator field were included where they named the company. The creator field cannot carry Word strike formatting, so the old name is kept there and the new name is marked with ~~ ~~.
 
 Markdown and text. difflib.SequenceMatcher was run on all 46 edited Markdown and text files against their backups, with autojunk turned off. Every file returned only equal blocks and insert blocks. There was no delete block and no replace block. The opcode counts are below.
 
@@ -66,7 +66,7 @@ Markdown and text. difflib.SequenceMatcher was run on all 46 edited Markdown and
 - lazoo-cmf/SOP-CMF-001-management.md: 3 equal, 2 insert
 - lazoo-cmf/tmp-roadmap-revA.txt: 3 equal, 2 insert
 - lazoo-cmf/00-INDEX.md: 3 equal, 2 insert
-- lazoo-cmf/grants-layer2-nihr/README.md: 3 equal, 2 insert
+- lazoo-cmf/grants-layer2-nihr/README.md: 3 equal, 3 insert (re-checked after the PDF cover note)
 - lazoo-cmf/app-ltd-shells/README.md: 5 equal, 4 insert
 - lazoo-cmf/02-governance/LAZ-GOV-003-mvp-maths-alignment.md: 3 equal, 2 insert
 - lazoo-cmf/02-governance/LAZ-SPN-001-sponsor.md: 15 equal, 14 insert
@@ -97,13 +97,13 @@ Markdown and text. difflib.SequenceMatcher was run on all 46 edited Markdown and
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-CRF-v0.3_human.md: 3 equal, 2 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.2.md: 49 equal, 48 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.5.md: 141 equal, 140 insert
-- lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md: 3 equal, 2 insert
+- lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md: 3 equal, 2 insert (re-checked after the lines were dated)
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-CRF-v0.3.md: 5 equal, 4 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-CRF-v0.2.md: 5 equal, 4 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/00-protocol-outline.md: 17 equal, 16 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.3.md: 33 equal, 32 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.4_human.md: 27 equal, 26 insert
-- lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md: 12 equal, 11 insert
+- lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md: 5 equal, 4 insert (re-checked after the three passages were restored)
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.4.md: 69 equal, 68 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/01-essential-documents.md: 15 equal, 14 insert
 - lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.3.md: 59 equal, 58 insert
@@ -1484,49 +1484,54 @@ Markdown and text. difflib.SequenceMatcher was run on all 46 edited Markdown and
 
 ### lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.docx
 
-Compliance counted three company-name passages in version 0.6.1: the sponsor line, the line that gives the name for this draft, and the open question under "Open for Dr McNeillis". Each old name in those passages is struck through and the new name is inserted. The status line is a separate insertion and is not one of those three.
+The sponsor line still carries the 30 October name strike and the inserted name. Three passages that already described the rename were put back exactly as they read in backups/, including their original strike formatting. A dated note was then inserted under the 29 October note.
 
-**Section:** Version 0.6.1, 30 October 2026: this version is version 0.6, as approved by Sara McNeillis on 30 October 2026, with two dated notes added for her decisions of that day. Martin Hick
+**Section:** Sponsor named in version 0.5
 
-- word/document.xml paragraph 7. full name next to 12467350. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited (company number 12467350; then named Sleep and Health Clinic App Limited, renamed 27 October 2026).
-- word/document.xml paragraph 8. short form App Ltd, first in this file. Old text kept: "App Ltd". Inserted: SHC Sleep Solutions Limited (short form for company number 12467350, renamed 27 October 2026).
-- word/document.xml paragraph 8. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
+- The old name is struck and the new name is inserted: SHC Sleep Solutions Limited (company number 12467350; then named Sleep and Health Clinic App Limited, renamed 27 October 2026). This passage is left as edited.
+
+**Section:** Name given for this draft
+
+- Restored from the backup. It again reads that the draft name is SHC Sleep Solutions Ltd, company number 12467350, with "formerly App Ltd" struck, then "formerly Sleep and Health Clinic App Ltd (name changed 27 October 2026)".
 
 **Section:** Open for Dr McNeillis
 
-- word/document.xml paragraph 44. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
-- word/document.xml paragraph 44. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
-- word/document.xml paragraph 44. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
+- The struck 29 October question is restored from the backup, as one struck sentence.
+- The "Dated note, 29 October 2026" in the same paragraph is restored from the backup. It again says the name changed from Sleep and Health Clinic App Ltd to SHC Sleep Solutions Ltd.
+- Inserted under that note: Dated note, 30 October 2026: the two lines above already record that company 12467350 was renamed SHC Sleep Solutions Limited on 27 October 2026. Their earlier name is kept as written.
 
 **Section:** Status of this document
 
-- new paragraph after the Not approved status line. fix 4: Sara McNeillis's approval of version 0.6 at 08:45 on 30 October 2026. Old text kept: "(no text removed)". Inserted: Dated note, 30 October 2026: Sara McNeillis approved version 0.6 on 30 October 2026 at 08:45. It has not been submitted for ethics review, and the MHRA has not been notified..
+- new paragraph after the Not approved status line. fix 4: Sara McNeillis's approval of version 0.6 at 08:45 on 30 October 2026. Old text kept: "(no text removed)". Inserted: Dated note, 30 October 2026: Sara McNeillis approved version 0.6 on 30 October 2026 at 08:45. It has not been submitted for ethics review, and the MHRA has not been notified.
 
 ### lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md
 
-Compliance counted three company-name passages in version 0.6.1: the sponsor line, the line that gives the name for this draft, and the open question under "Open for Dr McNeillis". Each old name in those passages is struck through and the new name is inserted. The status line is a separate insertion and is not one of those three.
+The sponsor line still carries the 30 October name strike and the inserted name. Three passages that already described the rename were put back exactly as they read in backups/. A dated note was then inserted under the 29 October note. difflib against the backup: 5 equal blocks and 4 insert blocks. No delete and no replace.
 
-**Section:** # LAZ-VAL-001 protocol amendment, version 0.6 (draft): heart rate
+**Section:** Sponsor named in version 0.5
 
-- line 10. full name next to 12467350. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited (company number 12467350; then named Sleep and Health Clinic App Limited, renamed 27 October 2026).
-- line 11. short form App Ltd, first in this file. Old text kept: "App Ltd". Inserted: SHC Sleep Solutions Limited (short form for company number 12467350, renamed 27 October 2026).
-- line 11. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
+- The old name is struck and the new name is inserted: SHC Sleep Solutions Limited (company number 12467350; then named Sleep and Health Clinic App Limited, renamed 27 October 2026). This passage is left as edited.
+
+**Section:** Name given for this draft
+
+- Restored from the backup. It again reads that the draft name is SHC Sleep Solutions Ltd, company number 12467350, with "formerly App Ltd" struck, then "formerly Sleep and Health Clinic App Ltd (name changed 27 October 2026)".
 
 **Section:** ## Open for Dr McNeillis
 
-- line 82. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
-- line 82. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
-- line 82. later mention. Old text kept: "Sleep and Health Clinic App Ltd". Inserted: SHC Sleep Solutions Limited.
+- The struck 29 October question is restored from the backup, including its original ~~ pair.
+- The "Dated note, 29 October 2026" on the same line is restored from the backup. It again says the name changed from Sleep and Health Clinic App Ltd to SHC Sleep Solutions Ltd.
+- Inserted under that note: Dated note, 30 October 2026: the two lines above already record that company 12467350 was renamed SHC Sleep Solutions Limited on 27 October 2026. Their earlier name is kept as written.
 
 **Section:** Status of this document
 
-- inserted paragraph. fix 4: Sara McNeillis's approval of version 0.6 at 08:45 on 30 October 2026. Old text kept: "(no text removed)". Inserted: Dated note, 30 October 2026: Sara McNeillis approved version 0.6 on 30 October 2026 at 08:45. It has not been submitted for ethics review, and the MHRA has not been notified..
+- inserted paragraph. fix 4: Sara McNeillis's approval of version 0.6 at 08:45 on 30 October 2026. Old text kept: "(no text removed)". Inserted: Dated note, 30 October 2026: Sara McNeillis approved version 0.6 on 30 October 2026 at 08:45. It has not been submitted for ethics review, and the MHRA has not been notified.
 
 ### lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md
 
 **Section:** Decisions of 30 October 2026
 
-- inserted paragraph. fix 5, company-name third item, fix 3, and fix 6. Old text kept: "(no text removed)". Inserted: The decline sentence describes the CBT-14 product outside this study. Participants in LAZ-VAL-001 are not given the chest patch.  Third. Company number 12467350 changed its registered name. Companies House (https://find-and-update.company-information.service.gov.uk/company/12467350) shows the current name SHC SLEEP SOLUTIONS LIMITED. The previous name was SLEEP AND HEALTH CLINIC APP LIMITED, from ….
+- The patch-use sentence now begins "Dated note, 30 October 2026:". The words of the sentence are unchanged.
+- The company-name paragraph now begins "Dated note, 30 October 2026:". The opening word "Third." is struck through, so it does not read as a third decision by Sara McNeillis. The Companies House record that follows is unchanged.
 
 **Section:** Hashes
 
@@ -2592,7 +2597,8 @@ Company name only. The heart-rate decline note is not added. That is deliberate,
 
 **Section:** # Grants file
 
-- line 12. later mention. Old text kept: "Sleep and Health Clinic App Limited". Inserted: SHC Sleep Solutions Limited.
+- Cover note inserted at the top: Dated note, 30 October 2026: the two NIHR outline PDFs are kept as filed and are not edited. Where they name Sleep and Health Clinic App Limited, that is company 12467350, renamed SHC Sleep Solutions Limited on 27 October 2026. "Sleep and Health App Limited (SHA)" in NIHR514007 is the wording as filed. Sleep and Health Clinic Ltd (08904119) is a separate company.
+- line 12. later mention. Old text kept: "Sleep and Health Clinic App Limited". Inserted: SHC Sleep Solutions Limited. The two outline PDFs are not edited.
 
 ### lazoo-cmf/tmp-roadmap-revA.txt
 

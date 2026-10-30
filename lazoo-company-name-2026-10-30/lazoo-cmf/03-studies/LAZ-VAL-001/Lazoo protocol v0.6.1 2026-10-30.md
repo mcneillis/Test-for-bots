@@ -10,7 +10,7 @@ Version 0.6.1, 30 October 2026: this version is version 0.6, as approved by Sara
 Dated note, 30 October 2026: Sara McNeillis approved version 0.6 on 30 October 2026 at 08:45. It has not been submitted for ethics review, and the MHRA has not been notified.
 
 **Sponsor named in version 0.5:** ~~Sleep and Health Clinic App Ltd~~ SHC Sleep Solutions Limited (company number 12467350; then named Sleep and Health Clinic App Limited, renamed 27 October 2026), company number 12467350.
-**Name given for this draft:** SHC Sleep Solutions Ltd, company number 12467350, ~~formerly App Ltd~~ SHC Sleep Solutions Limited (short form for company number 12467350, renamed 27 October 2026) formerly ~~Sleep and Health Clinic App Ltd~~ SHC Sleep Solutions Limited (name changed 27 October 2026).
+**Name given for this draft:** SHC Sleep Solutions Ltd, company number 12467350, ~~formerly App Ltd~~ formerly Sleep and Health Clinic App Ltd (name changed 27 October 2026).
 **Clinical advice only, unchanged:** Sleep & Health Clinic Ltd, company number 08904119.
 
 This document proposes wording for a version 0.6 of the validation protocol. Version 0.5 remains in force until Dr McNeillis approves the wording and the approvals that apply have been given. This draft states no study result, sets no sample size, changes no eligibility criterion, and records no approval of version 0.6.
@@ -81,7 +81,9 @@ How the core temperature estimate is shown on the phone is open. Whether skin te
 
 How pregnancy is recorded, so that raw heart rate can be hidden, is open. Whether raw heart rate is still recorded on the phone while it is hidden is open. What the patch itself stores, beyond the note that heartbeats are detected on the patch and that heart rate and the estimate are worked out on the phone, is open.
 
-~~Whether the registered name in the protocol should change from Sleep and Health Clinic App Ltd~~ SHC Sleep Solutions Limited~~ to SHC Sleep Solutions Ltd, for the same company number, is open. No such decision appears in the intended-purpose amendment or the classification review, so the proposed passages keep the name used in version 0.5.~~ Dated note, 29 October 2026: company 12467350 changed its registered name from ~~Sleep and Health Clinic App Ltd~~ SHC Sleep Solutions Limited to SHC Sleep Solutions Ltd on 27 October 2026. The sponsor is the same company. In this draft, the name ~~Sleep and Health Clinic App Ltd~~ SHC Sleep Solutions Limited in quoted version 0.5 text refers to SHC Sleep Solutions Ltd.
+~~Whether the registered name in the protocol should change from Sleep and Health Clinic App Ltd to SHC Sleep Solutions Ltd, for the same company number, is open. No such decision appears in the intended-purpose amendment or the classification review, so the proposed passages keep the name used in version 0.5.~~ Dated note, 29 October 2026: company 12467350 changed its registered name from Sleep and Health Clinic App Ltd to SHC Sleep Solutions Ltd on 27 October 2026. The sponsor is the same company. In this draft, the name Sleep and Health Clinic App Ltd in quoted version 0.5 text refers to SHC Sleep Solutions Ltd.
+
+Dated note, 30 October 2026: the two lines above already record that company 12467350 was renamed SHC Sleep Solutions Limited on 27 October 2026. Their earlier name is kept as written.
 
 When Northern Ireland and the European Union are planned for the product, and who would be the authorised representative, is open. This study does not gain a site in either place.
 
