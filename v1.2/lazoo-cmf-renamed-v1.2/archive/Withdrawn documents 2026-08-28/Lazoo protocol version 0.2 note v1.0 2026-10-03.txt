@@ -1,0 +1,9 @@
+QUARANTINE NOTE — 3 October 2026
+
+The live file /workspace/lazoo-cmf/app-ltd-shells/01-clinical-research-to-fill (now named lazoo-cmf/app-ltd-shells/01 Clinical research/, 30 October 2026)/filled/LAZ-VAL-001-protocol-v0.2 (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.2 2026-08-28.md, 30 October 2026).docx (and the same path under /home/box/agent-data/projects/laz-cmf/app-ltd-shells/) still contains the withdrawn “does not diagnose, predict, treat, or determine the management of any medical condition” paragraph. It is not controlled. It must not be used for submission, ethics, or store text.
+
+The markdown protocol is the draft under edit: LAZ-VAL-001-protocol-v0.2.md (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.2 2026-08-28.md, 30 October 2026) in the VAL-001 study folder.
+
+The Word file should be moved beside do-not-send (now named lazoo-cmf/archive/Withdrawn documents 2026-08-28/, 30 October 2026) and renamed so staff do not open it as the current protocol.
+
+This note does not rewrite the Word file. It does not publish, spend, email, or change a store listing. Pack stays OPEN.

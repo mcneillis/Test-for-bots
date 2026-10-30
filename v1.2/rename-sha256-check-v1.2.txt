@@ -1,0 +1,742 @@
+Lazoo study file rename sha256 check v1.2, 30 October 2026
+
+Each file is shown under its name in the live study file and under its name in v1.2/lazoo-cmf-renamed-v1.2/.
+The two hashes match unless a reference was inserted.
+Where a file was edited, the old text is still present in the same order. Difflib then checks a window around each added stretch and must report an insertion between the unchanged text.
+
+old: lazoo-cmf/00-INDEX.md
+  sha256: e1cdbe52c457eb87b29ba9d4a1e4601fca2b0fa6205ec24f678fef4b2c02494c
+new: v1.2/lazoo-cmf-renamed-v1.2/00-INDEX.md
+  sha256: e1cdbe52c457eb87b29ba9d4a1e4601fca2b0fa6205ec24f678fef4b2c02494c
+  same hash
+
+old: lazoo-cmf/01-product/LAZ-CL-001-REV-01-heart-rate-classification-review-2026-10-24.md
+  sha256: 0312a6625ad173e96849563b28a4c45a8e9b17c165e7766863621561b6b83bb9
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-CL-001-REV-01-heart-rate-classification-review-2026-10-24.md
+  sha256: 0312a6625ad173e96849563b28a4c45a8e9b17c165e7766863621561b6b83bb9
+  same hash
+
+old: lazoo-cmf/01-product/LAZ-CL-001-classification-memo.md
+  sha256: a0ce14a853ece11a0e78578d702887816fa654af062d4bed438ce780345db3f1
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-CL-001-classification-memo.md
+  sha256: a0ce14a853ece11a0e78578d702887816fa654af062d4bed438ce780345db3f1
+  same hash
+
+old: lazoo-cmf/01-product/LAZ-HR-IMPACT-2026-10-24.md
+  sha256: 4f9be1a9a14fb4b7ef34dd1d58aff32e05729eb6eaefcbbfd9da38f5438b225a
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-HR-IMPACT-2026-10-24.md
+  sha256: 3e40eee0fac98d3ec40752f3d04a120ca86096bb175416cf4e91600d5a2d3062
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.5 change note v1.0 2026-10-12.md, 30 October 2026)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.5 change note v1.0 2026-10-12.md, 30 October 2026)
+
+old: lazoo-cmf/01-product/LAZ-IP-001-AMD-01-heart-rate-2026-10-24.md
+  sha256: 2506fd45d287a59968340baf34f8c6e0d6fffbb910b81b56b5ef0db4ca00f2b1
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-IP-001-AMD-01-heart-rate-2026-10-24.md
+  sha256: 2506fd45d287a59968340baf34f8c6e0d6fffbb910b81b56b5ef0db4ca00f2b1
+  same hash
+
+old: lazoo-cmf/01-product/LAZ-IP-001-base-purpose-extract-2026-10-24.md
+  sha256: 7a16a555eb3ccb01f410227ea5dcf1eb538e33289b2580d7cf4581ebe607c08c
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-IP-001-base-purpose-extract-2026-10-24.md
+  sha256: 7a16a555eb3ccb01f410227ea5dcf1eb538e33289b2580d7cf4581ebe607c08c
+  same hash
+
+old: lazoo-cmf/01-product/LAZ-IP-001-intended-purpose.md
+  sha256: 132a055b8eb787d9f0bfa1f58cbf7cc6ccf964c04c406dcb4ba7f187c4ec1d73
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-IP-001-intended-purpose.md
+  sha256: 132a055b8eb787d9f0bfa1f58cbf7cc6ccf964c04c406dcb4ba7f187c4ec1d73
+  same hash
+
+old: lazoo-cmf/01-product/LAZ-VER-001-version-control.md
+  sha256: f9c6a03b52ef5cda4f845b85a0d477f2ca29b47c9652b468dd23c1da2bb2f8b7
+new: v1.2/lazoo-cmf-renamed-v1.2/01-product/LAZ-VER-001-version-control.md
+  sha256: f9c6a03b52ef5cda4f845b85a0d477f2ca29b47c9652b468dd23c1da2bb2f8b7
+  same hash
+
+old: lazoo-cmf/02-governance/LAZ-ARC-001-archiving.md
+  sha256: a289708cd250175a15833fd3fd36451e096e532586060645b6a2dccf2a84cd34
+new: v1.2/lazoo-cmf-renamed-v1.2/02-governance/LAZ-ARC-001-archiving.md
+  sha256: a289708cd250175a15833fd3fd36451e096e532586060645b6a2dccf2a84cd34
+  same hash
+
+old: lazoo-cmf/02-governance/LAZ-DEL-001-delegation-log.md
+  sha256: 8402655ac6cf9f2d83d4f99d1abd872d2e12ed08e87ab2f192ab92fb7c780a09
+new: v1.2/lazoo-cmf-renamed-v1.2/02-governance/LAZ-DEL-001-delegation-log.md
+  sha256: 8402655ac6cf9f2d83d4f99d1abd872d2e12ed08e87ab2f192ab92fb7c780a09
+  same hash
+
+old: lazoo-cmf/02-governance/LAZ-DPIA-HR-input-2026-10-24.md
+  sha256: 7a94a47dcb2e119955e1375897647249c6225fb153e9aa925d2db570d9b4dac5
+new: v1.2/lazoo-cmf-renamed-v1.2/02-governance/LAZ-DPIA-HR-input-2026-10-24.md
+  sha256: 7a94a47dcb2e119955e1375897647249c6225fb153e9aa925d2db570d9b4dac5
+  same hash
+
+old: lazoo-cmf/02-governance/LAZ-GOV-003-mvp-maths-alignment.md
+  sha256: 97bcd1331c55e3f4676f160e5808848b26e482fbf98ee0e1800503d6bc7bfb3a
+new: v1.2/lazoo-cmf-renamed-v1.2/02-governance/LAZ-GOV-003-mvp-maths-alignment.md
+  sha256: 97bcd1331c55e3f4676f160e5808848b26e482fbf98ee0e1800503d6bc7bfb3a
+  same hash
+
+old: lazoo-cmf/02-governance/LAZ-SPN-001-sponsor.md
+  sha256: 23e1fc70e5e2dd1763dc6f96787dfe1fc110157e6716f8d0a9fda16804ea5d82
+new: v1.2/lazoo-cmf-renamed-v1.2/02-governance/LAZ-SPN-001-sponsor.md
+  sha256: 23e1fc70e5e2dd1763dc6f96787dfe1fc110157e6716f8d0a9fda16804ea5d82
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-RWE-001/00-protocol-outline.md
+  sha256: 53f294b43cd71eb3283e224800307bffddacc3c2f4c188599acc503030b21686
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-RWE-001/00-protocol-outline.md
+  sha256: 53f294b43cd71eb3283e224800307bffddacc3c2f4c188599acc503030b21686
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-RWE-001/01-essential-documents.md
+  sha256: 6bbc432bda20a580eb8502d5874417a59508f02e6f524797d9757efe411ec29f
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-RWE-001/01-essential-documents.md
+  sha256: 6bbc432bda20a580eb8502d5874417a59508f02e6f524797d9757efe411ec29f
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-STUDY-REGISTER.md
+  sha256: 456203c829a5a164dd8c44c1d034e4a318549dc248d2cfd565d9a147e48a4a9a
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-STUDY-REGISTER.md
+  sha256: 456203c829a5a164dd8c44c1d034e4a318549dc248d2cfd565d9a147e48a4a9a
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/00-protocol-outline.md
+  sha256: ae9151f1546e5b9b49676cbb9f84fe2b59f4b1a671fa95fffca8fa9cc71876ef
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/00-protocol-outline.md
+  sha256: d94b5d260aedfc10d100ef0dd51180bb6ba0a5f7aa212533c1741e437523927b
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.4 2026-10-11.md, 30 October 2026)
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/01-essential-documents.md
+  sha256: 13917dd8741e2883b88bc103822ebc54854a00dae331e4ab6ac4b57fc2a36313
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/01-essential-documents.md
+  sha256: 13917dd8741e2883b88bc103822ebc54854a00dae331e4ab6ac4b57fc2a36313
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/02-csd-m-field-mapping.md
+  sha256: ad3b9e704f97dbdea2357209aacab529922faa5784d03e69c9ee9435c2b74a82
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/02-csd-m-field-mapping.md
+  sha256: ad3b9e704f97dbdea2357209aacab529922faa5784d03e69c9ee9435c2b74a82
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/CHANGES-v0.5.md
+  sha256: e0bbb79237f67f800f5cc5f25c4a401f5b3aeccf3d11e4d6407d3e5fc1cc1cb9
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.5 change note v1.0 2026-10-12.md
+  sha256: 34d60234250a3303952e442a8b8a5c9fc655085c07af61edf5dd910f2154ac15
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.5 change note v1.0 2026-10-12.md, 30 October 2026)
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-CRF-v0.2.md
+  sha256: a7e29000c27393a4692455c2ed28fb7360238ee41d048056293a5cc34c524868
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo case report form v0.2 2026-08-28.md
+  sha256: a7e29000c27393a4692455c2ed28fb7360238ee41d048056293a5cc34c524868
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.2.md
+  sha256: 8f7b28f6fff5687eda4cbbbf16c12ee197ca64b3702ed59043675b7348b1f3a2
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo data management plan v0.2 2026-08-28.md
+  sha256: 8dacb4a2e5c9c03f69cfcea0b4f7eb3966f5a44157b2778618eb2032910590f8
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo data management plan v0
+  difflib: insertion only
+  inserted: 3 2026-10-11.m
+  difflib: insertion only
+  inserted: , 30 Oct
+  difflib: insertion only
+  inserted: ber 2026).do
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.3.md
+  sha256: 4027f7a24212cfc8e1a47754deeafc7f8bad05cb958ce7ce325cf14416875a27
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo data management plan v0.3 2026-10-11.md
+  sha256: 4027f7a24212cfc8e1a47754deeafc7f8bad05cb958ce7ce325cf14416875a27
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.2.md
+  sha256: be3d41da3d87341fbe2ae5b70b61e893e829e9e41c796699a8b1d12bb52ea6b5
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.2 2026-08-28.md
+  sha256: af44ff5a3f8310921489f07e5865e9479d212579436dba5cf9b7696b501bc203
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.3 2026-10-11.md, 30 October 2026
+  difflib: insertion only
+  inserted: )
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.3.md
+  sha256: bffc0c4612c94fc96e0246961fd75b39b85ee8c7c2f493d46c841eb337ec2d66
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.3 2026-10-11.md
+  sha256: 0f5db272f30ead107efae2ae6d59b79eef40091cc7f4f28e66a484c6cd5ce9b9
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.4 2026-10-11.md, 30 October 2026)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.4 2026-10-11.docx, 30 October 2026)
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.4.md
+  sha256: ac3926dda902597e77630f26df362cd1025af4f8355c335db0c2ece71a5c847d
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.4 2026-10-11.md
+  sha256: ac3926dda902597e77630f26df362cd1025af4f8355c335db0c2ece71a5c847d
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo Prolific and MHRA notes in full sentences v1.0 2026-10-14.docx
+  sha256: 9759df1432696829619478a702dac79c23f2ce69f5d68d62a0c66c8675029d96
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo Prolific and MHRA notes in full sentences v1.0 2026-10-14.docx
+  sha256: 9759df1432696829619478a702dac79c23f2ce69f5d68d62a0c66c8675029d96
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo Prolific and MHRA notes in full sentences v1.0 2026-10-14.md
+  sha256: 35c999f8c069eba7af8fa61e320887435ca660f8131f0c042d8b0c2644b8cbbd
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo Prolific and MHRA notes in full sentences v1.0 2026-10-14.md
+  sha256: 35c999f8c069eba7af8fa61e320887435ca660f8131f0c042d8b0c2644b8cbbd
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo Prolific and MHRA notes v1.0 2026-10-14.md
+  sha256: a252d1437a8c7b10d47a3ec6b9441a0f2ea97626fe76d598172290d716579384
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo Prolific and MHRA notes v1.0 2026-10-14.md
+  sha256: a252d1437a8c7b10d47a3ec6b9441a0f2ea97626fe76d598172290d716579384
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo case report form in full sentences v0.3 2026-10-12.docx
+  sha256: ebd892e19444d0e8f0239a4c3384c5e4b4423c6ebcc47810dc2009f302ccf086
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo case report form in full sentences v0.3 2026-10-12.docx
+  sha256: ebd892e19444d0e8f0239a4c3384c5e4b4423c6ebcc47810dc2009f302ccf086
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo case report form in full sentences v0.3 2026-10-12.md
+  sha256: 846bc333cefbc86b7d35aa8b3939046aa5ca45ac1e4468a04c4eb491feb113a0
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo case report form in full sentences v0.3 2026-10-12.md
+  sha256: 846bc333cefbc86b7d35aa8b3939046aa5ca45ac1e4468a04c4eb491feb113a0
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo case report form v0.3 2026-10-12.md
+  sha256: 845a643c57e32b3b98acc5f4e7a8338aceab45459803de0fc89bddf6912639a2
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo case report form v0.3 2026-10-12.md
+  sha256: 845a643c57e32b3b98acc5f4e7a8338aceab45459803de0fc89bddf6912639a2
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: f77c77db3387439bfe44a548f134110acb995658f882829c119240a314713a9b
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: f77c77db3387439bfe44a548f134110acb995658f882829c119240a314713a9b
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo data management plan in full sentences v0.4 2026-10-12.md
+  sha256: 311cfb7ea4fe9bacb6b6ee39d101180a13c2f28c8c4fbf711f703252a9c8a63f
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo data management plan in full sentences v0.4 2026-10-12.md
+  sha256: 311cfb7ea4fe9bacb6b6ee39d101180a13c2f28c8c4fbf711f703252a9c8a63f
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo data management plan v0.4 2026-10-12.md
+  sha256: c74eea02295e3b16074c50442ffa23b4841eee200dd063c03589a126169b184d
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo data management plan v0.4 2026-10-12.md
+  sha256: c74eea02295e3b16074c50442ffa23b4841eee200dd063c03589a126169b184d
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6 2026-10-30.docx
+  sha256: dfd092bdfd1e0ea0d5c4c0aa43cecde14397487b9f7ad2e5aa949be587defed2
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo protocol v0.6 2026-10-30.docx
+  sha256: dfd092bdfd1e0ea0d5c4c0aa43cecde14397487b9f7ad2e5aa949be587defed2
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6 2026-10-30.md
+  sha256: 5d994cd0a07794e2ff1a3e44cd33ead439d41872c2451e68095bf030946bb916
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo protocol v0.6 2026-10-30.md
+  sha256: 5d994cd0a07794e2ff1a3e44cd33ead439d41872c2451e68095bf030946bb916
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.docx
+  sha256: a535fb902f5a19119d130877ecc9ba722aa1e20b16ce032a6696633a8564d7f9
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.docx
+  sha256: a535fb902f5a19119d130877ecc9ba722aa1e20b16ce032a6696633a8564d7f9
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md
+  sha256: a96dac7276dbb4dda35a062abd9557a61b3a6e47372a975485dea8fef7e8644a
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md
+  sha256: a96dac7276dbb4dda35a062abd9557a61b3a6e47372a975485dea8fef7e8644a
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md
+  sha256: 079500c3cb648348444a3d6c814660960ab9e6595b79fe0f1123e7b9fcc87a72
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md
+  sha256: 079500c3cb648348444a3d6c814660960ab9e6595b79fe0f1123e7b9fcc87a72
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: 88dc7efdd45f7c5a67a78f711eab2676d98f03191bffdfd679900043747fb9c0
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: 88dc7efdd45f7c5a67a78f711eab2676d98f03191bffdfd679900043747fb9c0
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol in full sentences v0.5 2026-10-12.docx
+  sha256: 01ae96ff514a96b534c602998c9666c8e068e6bd2661ce5627b18b888f66864d
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol in full sentences v0.5 2026-10-12.docx
+  sha256: 01ae96ff514a96b534c602998c9666c8e068e6bd2661ce5627b18b888f66864d
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol in full sentences v0.5 2026-10-12.md
+  sha256: 65274ee6d93480aae865d7c2be7a7c9b879675c58be109e7ef3f120abef45b83
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol in full sentences v0.5 2026-10-12.md
+  sha256: 65274ee6d93480aae865d7c2be7a7c9b879675c58be109e7ef3f120abef45b83
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.5 2026-10-12.md
+  sha256: 7821393c348e3c00fde7da81fa56c6b38d6bd0ff627994d2dcfc6f19f31b98ad
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0.5 2026-10-12.md
+  sha256: 7821393c348e3c00fde7da81fa56c6b38d6bd0ff627994d2dcfc6f19f31b98ad
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/sponsor-documents/HRA-notice-updated-model-agreements-2026-04-28-accessed-2026-10-11.pdf
+  sha256: aadf313f2845d24297e45b64833b4fa706beaa9fec97b0e2afbd75534266cd1b
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/sponsor-documents/HRA-notice-updated-model-agreements-2026-04-28-accessed-2026-10-11.pdf
+  sha256: aadf313f2845d24297e45b64833b4fa706beaa9fec97b0e2afbd75534266cd1b
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/sponsor-documents/README-sources.md
+  sha256: af876dc535c8836f51a287b7f9aab60a22ecef1380b54e4195e753bf925b6459
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/sponsor-documents/README-sources.md
+  sha256: af876dc535c8836f51a287b7f9aab60a22ecef1380b54e4195e753bf925b6459
+  same hash
+
+old: lazoo-cmf/03-studies/LAZ-VAL-001/sponsor-documents/mCIA-v6.0-August-2026-front-page-accessed-2026-10-11.pdf
+  sha256: 5ba9e4a8db21eeec6caa634ee4321b29de27c49968d42f98b5bcff999ddbbeac
+new: v1.2/lazoo-cmf-renamed-v1.2/03-studies/LAZ-VAL-001/sponsor-documents/mCIA-v6.0-August-2026-front-page-accessed-2026-10-11.pdf
+  sha256: 5ba9e4a8db21eeec6caa634ee4321b29de27c49968d42f98b5bcff999ddbbeac
+  same hash
+
+old: lazoo-cmf/04-templates/ISF-licensee.md
+  sha256: d3833d65f8b2ee582139b49e5af76a682c2ae059224be720ee0536e37f820c15
+new: v1.2/lazoo-cmf-renamed-v1.2/04-templates/ISF-licensee.md
+  sha256: d3833d65f8b2ee582139b49e5af76a682c2ae059224be720ee0536e37f820c15
+  same hash
+
+old: lazoo-cmf/04-templates/consent-four-toggles.md
+  sha256: 87e11a9d5b23a794d8c609c449c75d8414b2b0b432f933ef002a8270e4b92fc8
+new: v1.2/lazoo-cmf-renamed-v1.2/04-templates/consent-four-toggles.md
+  sha256: 87e11a9d5b23a794d8c609c449c75d8414b2b0b432f933ef002a8270e4b92fc8
+  same hash
+
+old: lazoo-cmf/04-templates/data-dictionary.md
+  sha256: f348dabef7033cccf5d85eb1174cbf7b4b02316453834dba3404eb69ada30642
+new: v1.2/lazoo-cmf-renamed-v1.2/04-templates/data-dictionary.md
+  sha256: f348dabef7033cccf5d85eb1174cbf7b4b02316453834dba3404eb69ada30642
+  same hash
+
+old: lazoo-cmf/05-layer2-samd/README.md
+  sha256: 48da9712542a2d323b26997a7bf27dd01ad0b673edfc5a4666699f2d8d160445
+new: v1.2/lazoo-cmf-renamed-v1.2/05-layer2-samd/README.md
+  sha256: 48da9712542a2d323b26997a7bf27dd01ad0b673edfc5a4666699f2d8d160445
+  same hash
+
+old: lazoo-cmf/06-correspondence/README.md
+  sha256: ee982c1391ce1bf8c6235b4fecc9f95185624c2c23f09679f759ac2e1e862e48
+new: v1.2/lazoo-cmf-renamed-v1.2/06-correspondence/README.md
+  sha256: ee982c1391ce1bf8c6235b4fecc9f95185624c2c23f09679f759ac2e1e862e48
+  same hash
+
+old: lazoo-cmf/README.md
+  sha256: 8b4903e66d89e54839c7030715739a2a8567528c19d8edb69d9e9f3469e2116e
+new: v1.2/lazoo-cmf-renamed-v1.2/README.md
+  sha256: 8b4903e66d89e54839c7030715739a2a8567528c19d8edb69d9e9f3469e2116e
+  same hash
+
+old: lazoo-cmf/SOP-CMF-001-management.md
+  sha256: d16fe0b9b7aeb1d06958b2f08cf831ace9f3fcaa890fcba3eb2b3fba7e5f9b24
+new: v1.2/lazoo-cmf-renamed-v1.2/SOP-CMF-001-management.md
+  sha256: d16fe0b9b7aeb1d06958b2f08cf831ace9f3fcaa890fcba3eb2b3fba7e5f9b24
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-CRF-template.docx
+  sha256: 956f1ed77171e6c29f0928a81e708ce8a9af6d879f912a669903cc6cf2d7f35a
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-CRF-template.docx
+  sha256: 956f1ed77171e6c29f0928a81e708ce8a9af6d879f912a669903cc6cf2d7f35a
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-ISF-template.docx
+  sha256: 3b8029ad7fab548ac61a53b2df893008705b649670bb4d1bf02bc41cd3db4857
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-ISF-template.docx
+  sha256: 3b8029ad7fab548ac61a53b2df893008705b649670bb4d1bf02bc41cd3db4857
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-SOP-template.docx
+  sha256: 86b3216efb89002a2d53e9d0c6b958067d12e8da47f3855491ffe413d00416be
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-SOP-template.docx
+  sha256: 86b3216efb89002a2d53e9d0c6b958067d12e8da47f3855491ffe413d00416be
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-clinical-study-report-template.docx
+  sha256: 5ac304a99e03e6aea1d7c255644b15a250d2cb77a2018e23fbecb9815dccb892
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-clinical-study-report-template.docx
+  sha256: 5ac304a99e03e6aea1d7c255644b15a250d2cb77a2018e23fbecb9815dccb892
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-data-management-plan-template.docx
+  sha256: c82acde6513501bff02f0356af7bdc738c719bf654fa3c17e49e7b5a90feafde
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-data-management-plan-template.docx
+  sha256: c82acde6513501bff02f0356af7bdc738c719bf654fa3c17e49e7b5a90feafde
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-monitoring-plan-template.docx
+  sha256: ff259dd37fae50aac11870cc4b0faf627de5b2ae1ffd444c4fe1712d27f5dc32
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-monitoring-plan-template.docx
+  sha256: ff259dd37fae50aac11870cc4b0faf627de5b2ae1ffd444c4fe1712d27f5dc32
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-protocol-template.docx
+  sha256: 2c8b5b5caabd170fe86996a424b031da9207aa51fad604040fb121112436fc9c
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-protocol-template.docx
+  sha256: 2c8b5b5caabd170fe86996a424b031da9207aa51fad604040fb121112436fc9c
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/SHA-validation-study-template.docx
+  sha256: a5e54be1b2ef6f471c03c956fe1c92a3c3b6d89ff1b5c85580b14bdb7cf7a7fd
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/SHA-validation-study-template.docx
+  sha256: a5e54be1b2ef6f471c03c956fe1c92a3c3b6d89ff1b5c85580b14bdb7cf7a7fd
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/LAZ-VAL-001-CRF-v0.2.docx
+  sha256: aa2c07c2da9ffe7704d92c09302ae1a6d785bbe38ce3c5f72ae23062de5cfe6a
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo case report form v0.2 2026-08-28.docx
+  sha256: aa2c07c2da9ffe7704d92c09302ae1a6d785bbe38ce3c5f72ae23062de5cfe6a
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/LAZ-VAL-001-protocol-v0.3.docx
+  sha256: 0066f82150510b1168d68941421d4de6639ebbf8a55c6ec480019df50e137888
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.3 2026-10-11.docx
+  sha256: 54420ff4f7fa7174c8bc3ea165f4bef79b5e5cac28e7d9f997439a8d479f0d58
+  hash differs because a reference was inserted (docx text, inserted inside a Word run)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.4 2026-10-11.docx, 30 October 2026
+  difflib: insertion only
+  inserted: )
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/LAZ-VAL-001-protocol-v0.4.docx
+  sha256: 0625944f860b842ab261faecc5b94ba5e03d0924827726b9eb18ff74b871a16b
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.4 2026-10-11.docx
+  sha256: 0625944f860b842ab261faecc5b94ba5e03d0924827726b9eb18ff74b871a16b
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/Lazoo case report form in full sentences v0.3 2026-10-12.docx
+  sha256: ebd892e19444d0e8f0239a4c3384c5e4b4423c6ebcc47810dc2009f302ccf086
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/Lazoo case report form in full sentences v0.3 2026-10-12.docx
+  sha256: ebd892e19444d0e8f0239a4c3384c5e4b4423c6ebcc47810dc2009f302ccf086
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/Lazoo case report form v0.3 2026-10-12.docx
+  sha256: e225087c9ea3cb265bfde47b791f56b391aec0fd2a99147dfceae827e6964d20
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/Lazoo case report form v0.3 2026-10-12.docx
+  sha256: e225087c9ea3cb265bfde47b791f56b391aec0fd2a99147dfceae827e6964d20
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: f77c77db3387439bfe44a548f134110acb995658f882829c119240a314713a9b
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: f77c77db3387439bfe44a548f134110acb995658f882829c119240a314713a9b
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/Lazoo data management plan v0.4 2026-10-12.docx
+  sha256: c70189a4b81210814075aab0dc52b7f833dde237b53e31cc19f2088c174a2c71
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/Lazoo data management plan v0.4 2026-10-12.docx
+  sha256: c70189a4b81210814075aab0dc52b7f833dde237b53e31cc19f2088c174a2c71
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/Lazoo protocol version 0.2 Word file note v1.0 2026-10-03.txt
+  sha256: 016ed66c2e068b8ccaf55cc0671b651b4a6c960925f031adcfd147f99bff0f0c
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/Lazoo protocol version 0.2 Word file note v1.0 2026-10-03.txt
+  sha256: 808b1a045ad06808cf56ecdf70b32ad4aeaecd691c4f5711414d3c91956e9148
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0
+  difflib: insertion only
+  inserted: 2
+  difflib: insertion only
+  inserted: 2026-08-28.md, 30 October 2026). 
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/README.md
+  sha256: 3cb777a47d7a9f61348d75d8492134859f426f51b462e1bbe969a4c48b21c2dd
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/README.md
+  sha256: 8d814ec58cfa8f03b9a72cc46c9a9b45cc06bd4bfd0ff19a9b8357cc7978e22f
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.4 2026-10-11.docx, 30 October 2026)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.3 2026-10-11.docx, 30 October 2026)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0
+  difflib: insertion only
+  inserted: 2 2026-08-28.m
+  difflib: insertion only
+  inserted: , 30 Oct
+  difflib: insertion only
+  inserted: ber 2026).do
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo case report form v0.2 2026-08-28.docx, 30 October 2026)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo data management plan v0
+  difflib: insertion only
+  inserted: 3 2026-10-11.m
+  difflib: insertion only
+  inserted: , 30 Oct
+  difflib: insertion only
+  inserted: ber 2026).do
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo data management plan v0
+  difflib: insertion only
+  inserted: 2 2026-08-28.m
+  difflib: insertion only
+  inserted: , 30 Oct
+  difflib: insertion only
+  inserted: ber 2026).do
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: 88dc7efdd45f7c5a67a78f711eab2676d98f03191bffdfd679900043747fb9c0
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan in full sentences v0.4 2026-10-12.docx
+  sha256: 88dc7efdd45f7c5a67a78f711eab2676d98f03191bffdfd679900043747fb9c0
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan v0.2 2026-08-28.docx
+  sha256: 0a130bd82c60391461383a51f71d9f6f1d2ba615f8040a1ce38b7df327521813
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan v0.2 2026-08-28.docx
+  sha256: 9a247257c0c11e8458771b65496bc36ebd8b46d70247a4961863cdeb5c1004e0
+  hash differs because a reference was inserted (docx text, inserted inside a Word run)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo data management plan v0
+  difflib: insertion only
+  inserted: 3 2026-10-11.m
+  difflib: insertion only
+  inserted: , 30 Oct
+  difflib: insertion only
+  inserted: ber 2026).do
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan v0.3 2026-10-11.docx
+  sha256: fbbd2ac55d9ec9f34c68ec7e2d93cc8777d4e50fe35915df35784e37890d3031
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan v0.3 2026-10-11.docx
+  sha256: fbbd2ac55d9ec9f34c68ec7e2d93cc8777d4e50fe35915df35784e37890d3031
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan v0.4 2026-10-12.docx
+  sha256: 71af17c3864e665b9223b1664273c827fda782a7bd49c8490dcc01963143a178
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo data management plan v0.4 2026-10-12.docx
+  sha256: 71af17c3864e665b9223b1664273c827fda782a7bd49c8490dcc01963143a178
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol in full sentences v0.5 2026-10-12.docx
+  sha256: 81d0850e02e7ba8e413b548d9dce7904138eff631525728adb0c2c98781bab23
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol in full sentences v0.5 2026-10-12.docx
+  sha256: 81d0850e02e7ba8e413b548d9dce7904138eff631525728adb0c2c98781bab23
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.5 2026-10-12.docx
+  sha256: 607c5007d4d168bbeb2c8f2a245f4eae425017df06dfa0d7b1c5b0697556e105
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/01 Clinical research/filled/archive/Lazoo protocol v0.5 2026-10-12.docx
+  sha256: 607c5007d4d168bbeb2c8f2a245f4eae425017df06dfa0d7b1c5b0697556e105
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/02 Software as a medical device/AI validation report template v1.0 2026-10-30.docx
+  sha256: 4d50adb0c227edcd54503e35d5b21d181db66e09174c8b2e590a3b86df2b3483
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/02 Software as a medical device/AI validation report template v1.0 2026-10-30.docx
+  sha256: 4d50adb0c227edcd54503e35d5b21d181db66e09174c8b2e590a3b86df2b3483
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/02 Software as a medical device/Clinical evaluation report template v1.0 2026-10-30.docx
+  sha256: bab7fd3be679e34fcd4c249602a911718b22105607acd6dde7e0a6b98bc3c3c8
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/02 Software as a medical device/Clinical evaluation report template v1.0 2026-10-30.docx
+  sha256: bab7fd3be679e34fcd4c249602a911718b22105607acd6dde7e0a6b98bc3c3c8
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/02 Software as a medical device/Technical file template v1.0 2026-10-30.docx
+  sha256: 869d27427122beb72414201787297dffa6e6366b4bf8656872182e85d743c589
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/02 Software as a medical device/Technical file template v1.0 2026-10-30.docx
+  sha256: 869d27427122beb72414201787297dffa6e6366b4bf8656872182e85d743c589
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/LAZ-DHF-001-stub-consent-audit.md
+  sha256: aaf0d7c12c4586e43e20af972b27b25f8bd29f339a1078ec6e085c9dd6fdf1b3
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/LAZ-DHF-001-stub-consent-audit.md
+  sha256: aaf0d7c12c4586e43e20af972b27b25f8bd29f339a1078ec6e085c9dd6fdf1b3
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/LAZ-DPIA-001-short-form.md
+  sha256: 4be4fd75c9acfe0ab223fa17aa2d2bdfd831e21a48447626de1a683cb11b5f53
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/LAZ-DPIA-001-short-form.md
+  sha256: 4be4fd75c9acfe0ab223fa17aa2d2bdfd831e21a48447626de1a683cb11b5f53
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/LAZ-GDPR-001-company-separation.md
+  sha256: 1ab3bdfd0f6f24186f75505823367861f150210727097ed0e17e55b13824bcb0
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/LAZ-GDPR-001-company-separation.md
+  sha256: 1ab3bdfd0f6f24186f75505823367861f150210727097ed0e17e55b13824bcb0
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/LAZ-QM-001-quality-manual.md
+  sha256: e96c43e042c5b42f17806add7d38729c0ade556d7986e521b024c61318047902
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/LAZ-QM-001-quality-manual.md
+  sha256: e96c43e042c5b42f17806add7d38729c0ade556d7986e521b024c61318047902
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/LAZ-RSK-001-risk-plan.md
+  sha256: cb32318e6a4f4cd6df784cc3e6802ffc06ebe7df0861d0dac5fd333fe7518671
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/LAZ-RSK-001-risk-plan.md
+  sha256: cb32318e6a4f4cd6df784cc3e6802ffc06ebe7df0861d0dac5fd333fe7518671
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/README.md
+  sha256: df77bacb575f10d57a6a44380b8020d88cc9db89f98f48ebd3e0ba4d465902de
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/README.md
+  sha256: df77bacb575f10d57a6a44380b8020d88cc9db89f98f48ebd3e0ba4d465902de
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/SHA-DHF-template-stub-only.docx
+  sha256: 6e7414665038a91d47abc72408d1d3a65157d803bc1c17b7b50786213c027c60
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/SHA-DHF-template-stub-only.docx
+  sha256: 6e7414665038a91d47abc72408d1d3a65157d803bc1c17b7b50786213c027c60
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/SHA-quality-manual-template.docx
+  sha256: b9324e84f0b281be9fbf1ab72971de7e4374254c42ff0ed73a7f7b4af436b5dc
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/SHA-quality-manual-template.docx
+  sha256: b9324e84f0b281be9fbf1ab72971de7e4374254c42ff0ed73a7f7b4af436b5dc
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/03-compliance/SHA-risk-management-plan-template.docx
+  sha256: cbaa76e1f48d127bab4714f62cd8d6f0925cd36c3a1306c5c9ff55214afc4bcd
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/03-compliance/SHA-risk-management-plan-template.docx
+  sha256: cbaa76e1f48d127bab4714f62cd8d6f0925cd36c3a1306c5c9ff55214afc4bcd
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/04-tmf/SHA-TMF-template.docx
+  sha256: e4061d32325b0631890dddcfdc28b1cc30a79f761de5071a7d047d599dd6c91f
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/04-tmf/SHA-TMF-template.docx
+  sha256: e4061d32325b0631890dddcfdc28b1cc30a79f761de5071a7d047d599dd6c91f
+  same hash
+
+old: lazoo-cmf/app-ltd-shells/README.md
+  sha256: 3c36022637c80e21ff2f583bbbe78390dfba0e8399e539f38eb7f3e25f541b5a
+new: v1.2/lazoo-cmf-renamed-v1.2/app-ltd-shells/README.md
+  sha256: 3c36022637c80e21ff2f583bbbe78390dfba0e8399e539f38eb7f3e25f541b5a
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/Lazoo protocol v0.2 2026-08-28.docx
+  sha256: 536afea6dbff744b4a238a8acd253de1228df4d904d83b9d7a4b647a3384edfc
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/Lazoo protocol v0.2 2026-08-28.docx
+  sha256: 536afea6dbff744b4a238a8acd253de1228df4d904d83b9d7a4b647a3384edfc
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/Lazoo protocol version 0.2 note v1.0 2026-10-03.txt
+  sha256: 33d1f58bd707eb9c7d811cf46c36b77a88e15e38a7d53a9a57c8efba5b3fced4
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/Lazoo protocol version 0.2 note v1.0 2026-10-03.txt
+  sha256: 88064d0fd976e28c343cc0ee14cda42c225e6d437ed99d123651637683163f26
+  hash differs because a reference was inserted (text)
+  difflib: insertion only
+  inserted:  (now named lazoo-cmf/03-studies/LAZ-VAL-001/archive/Lazoo protocol v0
+  difflib: insertion only
+  inserted: 2 2026-08-28.m
+  difflib: insertion only
+  inserted: , 30 Oct
+  difflib: insertion only
+  inserted: ber 2026).do
+  difflib: insertion only
+  inserted: (now named lazoo-cmf/03-stud
+  difflib: insertion only
+  inserted: es/LAZ-VAL-001/archive/Lazoo protocol v0.2 2026-08-28.md, 30 October 2026) i
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/Multi-centre validation proposal v1.0 2026-07.docx
+  sha256: f2372e715f482e8838245787f24cbb43602083eaef463ea8486e0d65656ab414
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/Multi-centre validation proposal v1.0 2026-07.docx
+  sha256: f2372e715f482e8838245787f24cbb43602083eaef463ea8486e0d65656ab414
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/Paediatric parent and school letter v1.0 2026-08-28.docx
+  sha256: 8c00ff337f16334939707e17238b052d2944c197d125466cbed3a3504b34c927
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/Paediatric parent and school letter v1.0 2026-08-28.docx
+  sha256: 8c00ff337f16334939707e17238b052d2944c197d125466cbed3a3504b34c927
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/Paediatric parent and school letter v1.0 2026-10-30.docx
+  sha256: 8c00ff337f16334939707e17238b052d2944c197d125466cbed3a3504b34c927
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/Paediatric parent and school letter v1.0 2026-10-30.docx
+  sha256: 8c00ff337f16334939707e17238b052d2944c197d125466cbed3a3504b34c927
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/Purpose lines from the parent and school letter v1.0 2026-08-28.md
+  sha256: 6e824748668cb7fce201a3aa3e968020633278ac5aaf5f31d1dbde866b74b757
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/Purpose lines from the parent and school letter v1.0 2026-08-28.md
+  sha256: 6e824748668cb7fce201a3aa3e968020633278ac5aaf5f31d1dbde866b74b757
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/README.md
+  sha256: fa4b882642a7743f27eb448be6edc849f1c6972123efcff739e61aae72e880ea
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/README.md
+  sha256: fa4b882642a7743f27eb448be6edc849f1c6972123efcff739e61aae72e880ea
+  same hash
+
+old: lazoo-cmf/archive/Withdrawn documents 2026-08-28/UK Digital Sleep Research Consortium prospectus v1.0 2026-07.docx
+  sha256: 835a3a9ee343fc08d0da326343780b4cc0204cbd1a77284e9729f766b77e876d
+new: v1.2/lazoo-cmf-renamed-v1.2/archive/Withdrawn documents 2026-08-28/UK Digital Sleep Research Consortium prospectus v1.0 2026-07.docx
+  sha256: 835a3a9ee343fc08d0da326343780b4cc0204cbd1a77284e9729f766b77e876d
+  same hash
+
+old: lazoo-cmf/grants-layer2-nihr/NIHR514007-i4i-AppLtd-AI-enabled-sleep-diary-outline.pdf
+  sha256: e2f37b52bf88dc1c880fefb85fcebb99bc313a91d43b0876c6e0cae0c592a9ab
+new: v1.2/lazoo-cmf-renamed-v1.2/grants-layer2-nihr/NIHR514007-i4i-AppLtd-AI-enabled-sleep-diary-outline.pdf
+  sha256: e2f37b52bf88dc1c880fefb85fcebb99bc313a91d43b0876c6e0cae0c592a9ab
+  same hash
+
+old: lazoo-cmf/grants-layer2-nihr/NIHR515650-RfPB-UCLH-AI-enabled-sleep-diary-outline.pdf
+  sha256: 4a8f1024415933878358fea97943889e3818c09899837f60020863e7129031e0
+new: v1.2/lazoo-cmf-renamed-v1.2/grants-layer2-nihr/NIHR515650-RfPB-UCLH-AI-enabled-sleep-diary-outline.pdf
+  sha256: 4a8f1024415933878358fea97943889e3818c09899837f60020863e7129031e0
+  same hash
+
+old: lazoo-cmf/grants-layer2-nihr/README.md
+  sha256: 3d4a36a57437c4c6b08e169c67a115b3d14e7fc4e677f37f070a7363e2a85a89
+new: v1.2/lazoo-cmf-renamed-v1.2/grants-layer2-nihr/README.md
+  sha256: 3d4a36a57437c4c6b08e169c67a115b3d14e7fc4e677f37f070a7363e2a85a89
+  same hash
+
+old: lazoo-cmf/tmp-roadmap-revA.txt
+  sha256: 1f9c2287be2dbb8de1cc06dfcf9e397ca62233b96d15ab4dad943df809856e5f
+new: v1.2/lazoo-cmf-renamed-v1.2/tmp-roadmap-revA.txt
+  sha256: 1f9c2287be2dbb8de1cc06dfcf9e397ca62233b96d15ab4dad943df809856e5f
+  same hash
+
+old: lazoo-cmf/uclh-feasibility-separate-sponsor/README.md
+  sha256: c79461aa336057b1a7a323435219c94727413ee4897cada3dd3b59d10b362c33
+new: v1.2/lazoo-cmf-renamed-v1.2/uclh-feasibility-separate-sponsor/README.md
+  sha256: c79461aa336057b1a7a323435219c94727413ee4897cada3dd3b59d10b362c33
+  same hash
+
+old: lazoo-cmf/uclh-feasibility-separate-sponsor/UCLH consent form v0.2 2026-08-28.md
+  sha256: 248d62d6888edd7b7669b8b905eb42a0947c9dbf8e928662a739a00f71838ce4
+new: v1.2/lazoo-cmf-renamed-v1.2/uclh-feasibility-separate-sponsor/UCLH consent form v0.2 2026-08-28.md
+  sha256: 248d62d6888edd7b7669b8b905eb42a0947c9dbf8e928662a739a00f71838ce4
+  same hash
+
+old: lazoo-cmf/uclh-feasibility-separate-sponsor/UCLH patient information sheet v0.2 2026-08-28.md
+  sha256: 72f113dcd5fb56fe6352b1b0be37f1fbe8dd175a2d46e5a14bcc0a683b8582b3
+new: v1.2/lazoo-cmf-renamed-v1.2/uclh-feasibility-separate-sponsor/UCLH patient information sheet v0.2 2026-08-28.md
+  sha256: 72f113dcd5fb56fe6352b1b0be37f1fbe8dd175a2d46e5a14bcc0a683b8582b3
+  same hash
+
+old: lazoo-cmf/uclh-feasibility-separate-sponsor/archive/UCLH consent form v0.1 2026-10-30.docx
+  sha256: 3b5ac4907f1fabfb1f744f49c2eb14c14e29836cbde06c29f5978a2d80e3fac8
+new: v1.2/lazoo-cmf-renamed-v1.2/uclh-feasibility-separate-sponsor/archive/UCLH consent form v0.1 2026-10-30.docx
+  sha256: 3b5ac4907f1fabfb1f744f49c2eb14c14e29836cbde06c29f5978a2d80e3fac8
+  same hash
+
+old: lazoo-cmf/uclh-feasibility-separate-sponsor/archive/UCLH patient information sheet v0.1 2026-10-30.docx
+  sha256: 06d4c3d43ac6872035946f0b42616d52afb844dc1e3afad36f5f498d740c73ed
+new: v1.2/lazoo-cmf-renamed-v1.2/uclh-feasibility-separate-sponsor/archive/UCLH patient information sheet v0.1 2026-10-30.docx
+  sha256: 06d4c3d43ac6872035946f0b42616d52afb844dc1e3afad36f5f498d740c73ed
+  same hash
+
+Files: 108
+Same hash: 97
+Hash differs after an insertion: 11
+Problems: 0
