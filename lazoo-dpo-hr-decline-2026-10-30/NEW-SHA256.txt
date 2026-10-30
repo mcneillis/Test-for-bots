@@ -1,4 +1,4 @@
-57db4b33701de35efbd43c3b86f723c125f405792a4243123df4a6add3c6a2a5  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.6-heart-rate-amendment-DRAFT.md
+5d994cd0a07794e2ff1a3e44cd33ead439d41872c2451e68095bf030946bb916  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.6-heart-rate-amendment-DRAFT.md
 fd9501f2092ea3a258e77162cc301cf8cd979373207a6405219b101655915940  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.4.md
 569f1723d9eb644f84f3c78a7fabfc999bb1329d7a1620da08df113ca9de4514  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.4_human.md
 4d7a7be9a97d6993db0fb1bdb7e735c4ab44707937aaaefba89032fee22d5bbd  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-CRF-v0.3.md
@@ -11,7 +11,7 @@ a76b09fd4b7a7c94c19d312a8a1dde25206c618ed875b3bae61291f3224555af  lazoo-cmf/02-g
 237cb9c5e0d500f4fa22e652173728b44b4d44df2ccb8985019b9c9d1907893f  lazoo-cmf/04-templates/consent-four-toggles.md
 1c8eb3bf90e10ba6bfcdf98aa30e22ebd0d282b866e1dfa934a012b14443ed56  lazoo-cmf/app-ltd-shells/03-compliance/LAZ-DHF-001-stub-consent-audit.md
 112c3e40b6fa843e4ea6d011f4e67b5714e5a0cb3194d829727d2d6d65de9ad8  lazoo-cmf/01-product/LAZ-IP-001-AMD-01-heart-rate-2026-10-24.md
-a65ca1126f43c0076d89c798761f4dbc327df827752cefc5c0738a9b3027c569  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.6-heart-rate-amendment-DRAFT.docx
+dfd092bdfd1e0ea0d5c4c0aa43cecde14397487b9f7ad2e5aa949be587defed2  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-protocol-v0.6-heart-rate-amendment-DRAFT.docx
 00575dd68a8a275cbecd33ddc84bc6e9b9fdb4256aa1fb5727999fe832571642  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-DMP-v0.4_human.docx
 536662dfb3e4d2d87fe7fa84037e491efc56e2cd6e6e0c340877d9544728a6c8  lazoo-cmf/app-ltd-shells/01-clinical-research-to-fill/filled/LAZ-VAL-001-DMP-v0.4.docx
 00575dd68a8a275cbecd33ddc84bc6e9b9fdb4256aa1fb5727999fe832571642  lazoo-cmf/app-ltd-shells/01-clinical-research-to-fill/filled/LAZ-VAL-001-DMP-v0.4_human.docx
@@ -19,3 +19,6 @@ a65ca1126f43c0076d89c798761f4dbc327df827752cefc5c0738a9b3027c569  lazoo-cmf/03-s
 546e9cac1852158ed7e11f0798b7ac40eda93bfc1a07b8d5370e9636c41d997b  lazoo-cmf/app-ltd-shells/01-clinical-research-to-fill/filled/LAZ-VAL-001-CRF-v0.3.docx
 26877bbf608d728b0bd3ebd575689a57c218e98a774a171953be03b8024151cb  lazoo-cmf/app-ltd-shells/01-clinical-research-to-fill/filled/LAZ-VAL-001-CRF-v0.3_human.docx
 d81b203a283822255ae0c287226fd808ea39419976f367d6f0b5006bcdee059a  lazoo-cmf/03-studies/LAZ-VAL-001/LAZ-VAL-001-prolific-mhra-notes-2026-10-14_human.docx
+a5c447736c97f7330ba87c439dea19de09a3f2c1a996e424bf34cc8edd47b914  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.md
+f8a42d79c823bcdb72b36f3ac4db2dd761f75e7a9b43da8c0373225de561d9dd  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 2026-10-30.docx
+a082867a35b526288d58702bc83a10100c7f67bd66abda4a29972e6e25fde3e9  lazoo-cmf/03-studies/LAZ-VAL-001/Lazoo protocol v0.6.1 change note 2026-10-30.md

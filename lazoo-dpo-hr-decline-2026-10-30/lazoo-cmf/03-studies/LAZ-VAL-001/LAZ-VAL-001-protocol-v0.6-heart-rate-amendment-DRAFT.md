@@ -23,19 +23,13 @@ The amendment brings the protocol into line with the purpose she has decided, an
 
 The passages affected are these. The intended-purpose position on the cover changes. The product rows in the synopsis and in section 1 change. The device paragraph in section 2 changes. The alignment table in section 3 changes, including the pregnancy row. The scope paragraph in section 4 changes, and the primary objective is quoted and kept. Sections 5 and 6 gain a limit on the chest patch, beside the existing actigraphy rule and the rule that no device is posted. Exclusion criterion 7 in section 8 is quoted and kept, with a note on how the product behaves in pregnancy. Sections 9 and 10 change the sentences on what the app shows, what a share contains, and the empty wearable fields. The actigraphy row in section 11 is quoted and kept, and no wearing row is added. Section 12 keeps the diary endpoint and the feasibility floor, and states that heart rate is not an endpoint. Section 13 adds the handling of heart rate, with no alarm and no threshold. Section 14 keeps the diary export and states that heart rate is not in it. Section 16 changes the purpose sentence and the amendments sentence. Section 19 is quoted so that any later public involvement covers this limit. Section 21 adds risks. Section 22 adds a paragraph on heart rate as health data without changing the diary basis. Section 24 stops the paper and the lay summary from implying a heart-rate result. The version history gains a proposed row and the earlier rows stay. Consequences for the case report form, the data management plan, the consent choices and the participant information sheet are listed only, and those documents are not rewritten here.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 **Substantial amendment: a view for Research Governance to confirm.** ~~The view of this draft is that the ethics committee should treat the change as substantial.~~ Dated note, 29 October 2026: version 0.5 has not been submitted to an ethics committee, so there is no favourable opinion to amend. The view of this draft is that version 0.6, if approved, would form part of the first submission, and that the committee must be shown the heart-rate function and that this study does not use it. If version 0.5 is submitted first, this change would be substantial. The intended purpose of the device is part of what an ethics committee is asked to understand, and the committee needs to see the heart-rate function and to see that participants in this study will not wear the patch and will not have a heart rate recorded. For the Medicines and Healthcare products Regulatory Agency, no notice has been given and the sponsor has not yet recorded its decision under regulation 16, so there is no authorisation in place to modify. If the sponsor decides that notice is required, the heart-rate purpose should be described in that first notice. Research Governance is asked to confirm that this is the right step. If Dr McNeillis later decides that this study will record heart rate, that further change would need its own amendment, with a reference method and a sample size she has not set, and it would be substantial for the ethics committee and, if the study is notified, for the Agency. This draft leaves that further change unmade. This paragraph is a view. Research Governance, the ethics committee and the Agency have not determined it.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## How the two copies of version 0.5 were read
 
 The Word file and the markdown copy describe the same study. They do not use the same words, and in a few places the substance differs. This draft follows the Word file.
 
 The markdown copy opens with two notes dated 24 October 2026 which are not in the Word file. One says that a heart-rate amendment is in draft and recommends that heart rate stay outside this study, with no heart-rate endpoint. The other records Dr McNeillis’s decision at 16:03 that day and says that heart rate stays outside the cleared purpose until Compliance has reviewed it and she has approved the wording. Those notes are not protocol text. The recommendation happens to match the proposal in this draft, which is that this study does not record heart rate. ~~It is not treated as her decision.~~ It was a recommendation, not her decision. Her decisions are taken from the intended-purpose amendment and the classification review.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 The markdown copy also prints long change notes dated 11, 12 and 13 October 2026 in front of the protocol. The Word file records the same history in its version table, including a separate row for the scope update of 13 October 2026. In the markdown version table, the row for 5 October 2026 includes the pregnancy exclusion and attributes it to the sponsor decision of 13 October 2026. The Word history places pregnancy in the version 0.5 row and in the 13 October row, and the 5 October row does not mention it. The decision date for pregnancy in both copies is 13 October 2026. This draft follows the Word history.
 
@@ -71,8 +65,6 @@ The final words of the intended purpose are open, as is the moment she approves 
 
 Whether this study should record heart rate at all is open. This draft proposes that it should not, for the reasons in the sections below. She may decide otherwise. If she does, the objectives, the endpoints, the reference method, the sample size, the schedule, the posting rule and the eligibility criteria would have to be rewritten. None of that is done here, and no figure for a sample size is proposed.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 How the core temperature estimate is shown on the phone is open. Whether skin temperature trends are also shown in Lazoo is open. The skin temperature claim for the patch itself stays as she left it on 24 October 2026.
 
 How pregnancy is recorded, so that raw heart rate can be hidden, is open. Whether raw heart rate is still recorded on the phone while it is hidden is open. What the patch itself stores, beyond the note that heartbeats are detected on the patch and that heart rate and the estimate are worked out on the phone, is open.
@@ -84,8 +76,6 @@ When Northern Ireland and the European Union are planned for the product, and wh
 The item she deferred on 24 October 2026, and the question that asks about that item, remain open. The documents used for this draft do not say what that item contains~~, and it is not guessed~~. Her answer “not sure” on 26 October 2026 falls outside this amendment~~ and is not interpreted~~. Whether CBT-14 is an accessory, and in what class, is open for Compliance and is not decided here.
 
 The regulation 16 decision, the Data Protection Officer’s confirmation of the lawful basis, the insurance quotation, and the appointments still open in version 0.5 all remain open. This draft does not close them.
-
-Dated note, 30 October 2026: the Data Protection Officer is Martin Hickley.
 
 ## Version history
 
@@ -100,8 +90,6 @@ The rows of the version 0.5 history are unchanged. The last of them is quoted he
 > 0.5, scope update | 13 October 2026 | Sponsor’s clinical research team | Sponsor decided that Lazoo’s intended purpose is insomnia monitoring only and that this study tests monitoring only; the alternative of diagnosis and monitoring was removed. Obstructive sleep apnoea kept separate from insomnia and outside the study. Lazoo may be used in pregnancy; pregnancy excluded from this validation study because use in pregnancy will be evaluated in a separate, dedicated study later.
 
 **Proposed row to be added, not a replacement of either row above.** Version 0.6, draft, 29 October 2026. Author to be entered by the sponsor when, and if, the amendment is approved. The row would record that the sponsor has decided in principle to add heart rate from the CBT-14 chest patch to Lazoo’s intended purpose, within the limits decided on 24 and 26 October 2026; that this study does not record heart rate, does not issue the patch, and does not change the endpoints, the feasibility floor or the eligibility criteria; and that the final purpose wording still awaits Dr McNeillis’s approval and the completion of Compliance review. The row should not be dated as an approval.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## Intended-purpose position on the cover
 
@@ -138,8 +126,6 @@ The other rows of both tables are unchanged. In particular, the design, the comp
 **Proposed text for both product rows.** The sentences of the section 1 row are kept, and the following sentences are added at the end of that row and, in shorter form, at the end of the synopsis row.
 
 The sponsor has since decided in principle that, as part of insomnia monitoring, Lazoo may present heart rate recorded across the whole day by the companion chest patch CBT-14, on the limits set out in the intended-purpose position. The research build used in this study does not receive patch data, does not record heart rate and does not show a core temperature estimate. No heart-rate endpoint is added. Whether the study should be changed so that participants wear the patch is open for Dr McNeillis.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## Section 2. Background and rationale
 
@@ -199,8 +185,6 @@ The final-wording row is replaced with: The controlled statement is not yet lock
 
 Heart rate is not measured in this draft. The objectives are therefore unchanged in what they ask the study to estimate. They are set out so that it is explicit that heart rate is not among them. If Dr McNeillis decides that heart rate is to be measured in this study, no objective is written here in anticipation. A reference method, a wearing schedule and a sample size would all have to be chosen first, and none of those choices has been made.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 **Exact text of version 0.5, primary objective.**
 
 > To estimate agreement between Lazoo and a concurrently completed CSD-M for calculated total sleep time over paired mornings, in adults using the restricted research app.
@@ -215,15 +199,11 @@ The four secondary objectives and the exploratory objective are unchanged and ar
 
 The study does not record heart rate and does not estimate agreement for it. It does not test a core temperature estimate, a daily rhythm, or heart rhythm. It does not ask participants to wear the CBT-14 patch. Those limits stand unless Dr McNeillis decides that heart rate is to be measured in this study. She has not made that decision, and no objective is added for heart rate.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 ## Section 5. Study design: the product, and actigraphy
 
 **Exact text of version 0.5, product under study.**
 
 > The product under study is the Lazoo restricted research build: software as a medical device at the MHRA Class IIa working position, distributed through Apple Unlisted App Distribution and Google Play closed testing. The research-ready build will be fixed and recorded in the software version log before the first participant. It must show four consent choices, each stored with the version of its wording and a timestamp; an export of raw timestamps in JSON and CSV formats; a history of diary edits to which entries can only be added; and a study_link field recording the study ID, the site code and the version of the consent pack.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 **Exact text of version 0.5, actigraphy.**
 
@@ -232,8 +212,6 @@ Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining hear
 **Proposed text.** The product paragraph is kept. It describes the diary build, and that is the build this study uses. The following paragraph is added after it.
 
 The sponsor has decided in principle that the Lazoo app is the companion to the CBT-14 chest patch and that heart rate from the patch is part of insomnia monitoring, on the limits in the intended-purpose position. The research build used in this study does not receive data from the patch, does not calculate heart rate, and does not show a core temperature estimate. Dr McNeillis has not decided that participants in this study will wear the patch. Whether she wants the study changed so that they do is open for her. If she decides that they should, this paragraph, the objectives, the endpoints, the schedule and the sample size will have to be rewritten. None of that rewriting is done here. Whether the patch is an accessory to Lazoo, and in what class, is open and is not decided in this protocol.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 The actigraphy paragraph is kept word for word. The same rule applies to the patch. It is not included. Adding it would require a further amendment, a named patch build, and a statement of what the study would compare the recording with. No reference method has been named.
 
@@ -279,8 +257,6 @@ The product may still be used in pregnancy for the sleep diary, as decided on 13
 
 The research build shows no heart rate and no core temperature estimate, and it still shows no interpretation, score, flag, lesson or phenotyping output. In this study a share under consent choice 2 is the diary history only. Recorded heart rate is absent from that share, because this study does not record it. The core temperature estimate is absent from every share. If Dr McNeillis later decides that the study will record heart rate, the share would then hold that recorded heart rate and would still leave the estimate out, and the participant information would have to say so. That decision is open, so the share in this draft stays the diary history.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 ## Section 10. Study assessments, and the data collected
 
 **Exact text of version 0.5.**
@@ -292,8 +268,6 @@ The construct map, the usability questions and the background descriptors are un
 **Proposed text.** The paragraph is kept word for word, including the three empty fields. The following sentences are added.
 
 Under this draft the study collects the diary fields already named, the usability scores, and the background descriptors already named. It does not collect heart rate, a core temperature estimate, skin temperature, blood oxygen saturation, or a flag that someone is pregnant. The fields vitals.core_temp[], vitals.wearable[] and ai_event[] stay empty. Heartbeats are not passed from a patch to the study export. What a patch would store on its own remains open for Dr McNeillis and does not arise in this study, because the patch is not used.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## Section 11. Study schedule
 
@@ -353,25 +327,17 @@ The rest of the section, on storage, pseudonymisation, consent choices 1 and 3, 
 
 This study does not export heart rate, a core temperature estimate, skin temperature, blood oxygen saturation, or a pregnancy flag. Those data are not created in the research build used under this draft. The data management plan is not rewritten in this document. The consequences, if the plan is later brought into line, are listed below and are not specified as new fields here.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 ### Consequences for the case report form, listed only
 
 The case report form is version 0.3 and is not amended in this draft. The consequences of this amendment, if it is approved, are these.
 
 The form should record that the build pinned for the participant does not export heart rate or a core temperature estimate, and that the three reserved fields are empty. It should not gain a field for an abnormal heart rate or a field for a threshold. The existing pregnancy exclusion stays as it is. If Dr McNeillis later decides that the patch is worn, the form would then need items for issue and return of the patch, the side of the chest, whether both temperature sensors faced the skin, the hours worn, and an export of recorded heart rate only, with the core temperature estimate kept off the export. Those items are not added, because that decision is open.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 ### Consequences for the data management plan, listed only
 
 The data management plan is version 0.4 and is not amended in this draft. The consequences are these.
 
 The export stays as raw diary timestamps, the study link, the consent-pack version, the app version and the operating system, and heart rate is not in it. Any share and any transfer hold the diary records only, and do not hold a core temperature estimate. The product rule, which this study does not need to operate, is that heart rate is worked out on the phone and that no wearer’s heart rate is processed before ~~an Article 6 basis, an Article 9 condition and a data protection impact assessment have been signed off~~ an Article 6 basis, an Article 9 condition and the data protection impact assessment have been signed off and the purpose amendment has been approved (dated 29 October 2026). If heart rate were added later, the plan would have to name the lawful basis. Research Governance has recommended explicit consent for an optional heart-rate choice in the product, and a different basis for vigilance records. That is a recommendation. Dr McNeillis has not decided it for this study, and the Data Protection Officer has not confirmed the diary basis either. Whether a heart rate hidden in pregnancy would still be stored on the phone is open, and it is not a rule of this study. Retention of diary data is unchanged. No retention period is set for heart rate, because it is not collected. Northern Ireland and the European Union are in scope for the product and are not added as study sites.
-
-Dated note, 30 October 2026: the Data Protection Officer is Martin Hickley.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## Section 15. Statistical analysis
 
@@ -389,8 +355,6 @@ Two sentences in the cleared Word file, in the reasoning offered for the sponsor
 
 > The participant-facing contact is admin@sleepandhealth.org, together with any partner site contact approved by the ethics committee; sponsor documents carry neither a personal email address nor an NHS Patient Advice and Liaison Service (PALS) line. Consent choices follow the sponsor’s consent template with its four choices: this study requires choices 1 and 3, and choice 4 is off by default. Conflicts of interest are declared in the ethics submission and in the participant information sheet (see section 25).
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 **Exact text of version 0.5, amendments.**
 
 > ~~Any change to this protocol, including any change to the recruitment route, the addition of a site or the addition of actigraphy, will be made by a formal amendment, approved by the sponsor and submitted for the approvals that apply (research ethics committee, HRA and, if the study is notified, the MHRA) before it is implemented. [PLACEHOLDER: sponsor to confirm its amendment procedure and the standard operating procedure that governs it]~~
@@ -403,8 +367,6 @@ The consent paragraph is kept. Consequences for the participant information shee
 
 The amendments paragraph is replaced with: Any change to this protocol, including any change to the recruitment route, the addition of a site, the addition of actigraphy, or any decision that this study will record heart rate or issue the chest patch, will be made by a formal amendment, approved by the sponsor and submitted for the approvals that apply (research ethics committee, Health Research Authority and, if the study is notified, the Medicines and Healthcare products Regulatory Agency) before it is implemented. The placeholder for the sponsor’s amendment procedure is unchanged and is still open.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 The view on whether this draft itself is a substantial amendment is in the summary. Research Governance is asked to confirm it. This draft does not assert that an ethics committee or the Agency has classified the change.
 
 ### Consequences for consent and the participant information sheet, listed only
@@ -413,8 +375,6 @@ The sheet and the consent form are still to be written, as version 0.5 says, and
 
 The sheet will say, as version 0.5 already requires, that the app is not an emergency service, that the study makes no diagnostic claim, and that compensation, withdrawal, conflicts of interest and the results summary are explained. It will say that this study asks for two morning diaries and does not ask the participant to wear a patch or to provide a heart rate. It will say that staff will not contact anyone because of a heart rate, that there is no alarm and no threshold, and that feeling unwell is a matter for usual care. It will not describe a core temperature number, because none is shown in this study. The four consent choices are unchanged: this study still requires choices 1 and 3, and choice 4 stays off. Whether a further choice is needed for heart rate is open for Dr McNeillis. Research Governance has recommended a choice for the product and has not been given her decision. This draft does not add a fifth choice. If she later decides that the study will record heart rate, the sheet would have to explain what is recorded, that the shared report holds recorded data only, that raw heart rate is hidden in pregnancy, and that an estimate is not shown until the display has been cleared. Those sentences are not written here.
 
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
-
 ## Section 19. Patient and public involvement
 
 **Exact text of version 0.5.**
@@ -422,8 +382,6 @@ Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining hear
 > No patient and public involvement activity had been completed for this study as at 11 October 2026.
 
 **Proposed text.** The sentence is kept. Version 0.5 already asks the Chief Investigator, before any ethics submission, to record whether users have commented on the burden, the intended-purpose wording and the signposting text, and to say so if they have not. If this amendment is put to an ethics committee, that comment should also cover the statement that the study does not collect heart rate and does not issue a patch. No such comment is claimed to have been made. The date of 11 October 2026 is left as the date in version 0.5, and no later involvement is invented.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## Section 21. Risk
 
@@ -453,17 +411,9 @@ A pregnant person is enrolled, or heart rate is shown in pregnancy. Exclusion cr
 
 > The working position, pending the sponsor’s decision, is legitimate interests, proposed, with the Data Protection Officer to confirm. The basis is UK GDPR Article 6(1)(f) (legitimate interests), with Article 9(2)(j) and the Data Protection Act 2018, Schedule 1, paragraph 4 (research) for special category health data. This follows Health Research Authority guidance that a commercial sponsor should rely on a basis other than consent for research processing. Consent to take part, including consent choice 3, remains the ethical and common-law safeguard. The content of a sleep diary may be special category health data.
 
-Dated note, 30 October 2026: the Data Protection Officer is Martin Hickley.
-
 **Proposed text.** The paragraph is kept. It is the basis proposed for the diary research, and it is still for the Data Protection Officer to confirm. The following paragraph is added.
 
-Dated note, 30 October 2026: the Data Protection Officer is Martin Hickley.
-
 Heart rate is not processed in this study under this draft. If it were processed, it would be special category health data, as would a core temperature estimate and a pregnancy setting. Research Governance has recommended explicit consent for an optional heart-rate choice in the product, separate from the legitimate-interests basis proposed for the diary research, and a different basis for vigilance records. That recommendation is not a decision by Dr McNeillis, and it is not confirmed by the Data Protection Officer. No wearer’s heart rate is to be processed before an Article 6 basis, an Article 9 condition and a data protection impact assessment have been signed off. The short-form assessment for Lazoo remains a draft and is not signed. The heart-rate assessment for the patch is a separate document and is not signed off by this protocol. What the patch stores is open. Northern Ireland and the European Union being in scope for the product does not move this study’s data out of the United Kingdom and does not add a transfer.
-
-Dated note, 30 October 2026: the Data Protection Officer is Martin Hickley.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 ## Section 24. Dissemination
 
@@ -478,8 +428,6 @@ Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining hear
 **Proposed text.** The first paragraph is kept, and this sentence is added: The results will not include heart rate, a daily rhythm or a core temperature estimate, because none will have been collected, and the paper will not be titled or framed as a study of the heart or of body temperature.
 
 The lay summary is replaced with: This study compared app records with a standard morning sleep diary completed as a locked PDF. It did not collect heart rate and did not ask participants to wear a chest patch. The results will be shared with participants in plain language within 12 months of the end of the study.
-
-Dated note, 30 October 2026: Sara McNeillis decided at 08:46 that declining heart rate never stops someone using the chest patch or the app. The heart-rate choice is asked and recorded separately from other consent. Heart rate stays out of the LAZ-VAL-001 validation study (Sara McNeillis, 30 October 2026, 08:45), so the objectives and the sample size are unchanged.
 
 The lay summary is a template sentence for a future sheet. Version 0.5 says enrolment begins only after approval and signature, and the signature page is unsigned. This draft reports no enrolment figure, no completion date and no finding.
 
@@ -496,7 +444,5 @@ The primary and secondary endpoints, the feasibility floor of 30 completers, the
 | Compliance | To be confirmed | Review of the purpose wording is not finished. | |
 | Data Protection Officer | Not yet named | Lawful basis not confirmed. | |
 | Chief Investigator signature on the protocol | Dr Sara McNeillis, proposed | Version 0.5 is not signed. This draft is not signed. | |
-
-Dated note, 30 October 2026: the Data Protection Officer is Martin Hickley.
 
 End of draft amendment. Version 0.5 remains the protocol until this draft is approved.
