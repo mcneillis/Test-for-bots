@@ -1,0 +1,195 @@
+Change note 5 October 2026: class locked as SaMD, MHRA Class IIa (2a); replaces the 3 October 2026 lock. Sara McNeillis lock. Working position is SaMD Class IIa (class 2a), one layer only. Clinical claims, purpose, pregnancy in/out, and Gantt claim slots left as “TBD — pending Sara paste.” Pack stays OPEN. Earlier dates in this file are kept.
+
+REGULATORY AND ADOPTION ROADMAP  ·  REVISION A
+Lazoo Sleep Diary App
+From the recorded MVP to NICE Technology Appraisal planning as SaMD Class IIa (class 2a) — calendar kept against the attached operational Gantt. Pack stays OPEN. Not marked UKCA or CE.
+This revision keeps early-use and Technology Appraisal as planning only. Working class is SaMD Class IIa (class 2a). It keeps that planning on the company’s own operational Gantt (preliminary work, tech developments, regulatory, sales and marketing, studies) rather than a generic quarter-by-quarter sketch. Where the Gantt and this Class IIa planning note disagree — most importantly the MHRA line at 0 weeks, a 16-week UKCA bar, and a December 2026 stop date — the Gantt is treated as the current operating plan and the disagreement is named as a decision. No mark is held.
+1. Working class (not a signed opinion)
+Lazoo is SaMD Class IIa (class 2a). It is not a wellness product, and not “not a medical device”. There is one layer. Clinical claims: TBD — pending Sara paste. This section is not a signed classification opinion and does not mark UKCA, CE, or compliance.
+Intended purpose: TBD — pending Sara paste.
+The attached Gantt adds a pregnancy study. Pregnancy in/out: TBD — pending Sara paste. Do not let a 26-week pregnancy bar fill that slot.
+File types named in the 5 September 2026 draft (not a statement that they exist, and not a compliance mark)
+Planning context only (not held, not a compliance statement): ISO 13485 QMS, ISO 14971 risk file, IEC 62304 software lifecycle, IEC 62366 usability, clinical evaluation, PMS/PMCF.
+The 5 September 2026 draft said an Approved Body assessment would be needed and that self-certification was not the route it was using. No certificate is held. The 16-week CE/UKCA bar on the Gantt is not a mark. This pack is not UKCA or CE.
+MHRA registration of manufacturer and device. The Gantt currently budgets 0 weeks for MHRA. That line has to be opened.
+DTAC, DCB0129 (named Clinical Safety Officer), DSPT, Cyber Essentials Plus — these are on the Gantt and must survive as living files, not a Feb–May burst.
+2. Current state against the attached Gantt
+The Lazoo deck records MVP complete, a UCLH letter of intent, report-structure work in draft, and a requirement that manual sleep-module entry matches the other modules. The 2021 screens already cover food (kcal and portion), drink (alcohol / caffeine), activity, medicine, ratings and a today/weekly summary. That is the product the Gantt is improving, not a blank sheet.
+2.1 The operational Gantt as supplied
+Source: company operational Gantt (Oct 2025 – Dec 2026). CW column is treated as planned duration in calendar weeks. Bars that share a start and finish (UI, UX, back-end, API, platform security) are parallel, not sequential.
+Work-package transcription
+Where the clock is today (5 September 2026)
+On this Gantt, preliminary, tech, most regulatory and the sales campaigns are behind the data line. Either they are done, or they slipped and the chart has not been re-baselined. The i4i outline and any Approved Body conversation need an honest status, not the original bars.
+The only bars still in their planned window are UCL sleep study and pregnancy study (July–December 2026). They are not yet the clinical-evaluation critical path while intended purpose and pregnancy in or out are open.
+Nothing on the attached Gantt runs past 31 December 2026. Early-use guidance, multi-site pathway evidence and Technology Appraisal do. Section 6 extends the calendar.
+3. The seven-stage roadmap, mapped onto the Gantt
+Governance stages stay sequential. Calendar work overlaps. Costs are 2026 pounds, ex-VAT. Stage 1 still uses the attached Lazoo development-cost table (£294k with +40%).
+The original Stage 0 assumed a standing start. The Gantt says you are already in studies. Stage 0 is not a freeze. The pack stays OPEN.
+Do not sign. Intended purpose: TBD — pending Sara paste. Pregnancy in/out: TBD — pending Sara paste. Claim ladder: TBD — pending Sara paste.
+Do not treat this file as a classification opinion. Working class is SaMD Class IIa (class 2a). MHRA Innovation Office briefing — this is the line the Gantt left at 0.
+Re-baseline the attached Gantt: mark each Mar–Jun bar as done / partial / slipped. i4i reviewers will ask.
+Convert the UCLH letter of intent into a named CI and confirm the UCL sleep-study protocol matches the purpose.
+Pregnancy in/out: TBD — pending Sara paste. Do not write an in-or-out decision in this revision.
+Exit: purpose still TBD — pending Sara paste. No signed classification opinion. Re-baselined Gantt still open. Funding note unchanged: founder / angel. Pack stays OPEN.
+The Gantt tech swimlane (UI, UX, back-end, API, platform security, testing) is the same work as the attached cost table. Map them rather than budget twice.
+Overlay still required and not in either the cost table or the four testing bursts: IEC 62304 lifecycle and SOUP register (£18–28k), IEC 62366 formative if Listening Lab notes are not already that file (£12–20k), secure SDLC documentation beyond the CREST test (£8–14k). Stage 1 planning total remains £334–364k. Funding: i4i PDA + match. If the Mar–Jun bars are not actually closed, this work is late and sits in front of UKCA, not behind it.
+The Gantt’s CE/UKCA bar is 16 weeks, March to early July 2026. For Class IIa that bar can be read as file assembly only. It is not a certificate. No certificate is held. July 2026 is not a mark. This pack is not UKCA or CE.
+ISO 13485 eQMS, ISO 14971, technical file, clinical evaluation report that draws on the UCL study as it accrues.
+Approved Body application. Fee and question rounds: needs a written Class IIa quote.
+Open the MHRA line: manufacturer and device registration before placing on the Great Britain market. Statutory fee £300 a year per chargeable GMDN category from 1 April 2026; recheck at registration. Legal fees: needs a written Class IIa quote. Give it weeks on the next Gantt revision.
+Stage 2 paperwork (RA/QA, eQMS, technical file and CER, Approved Body, MHRA/legal, labelling): each line needs a written Class IIa quote. The earlier £95–165k was priced for the previous class and is withdrawn.
+The attached regulatory swimlane already named the right NHS rails. Two adjustments: keep them alive after May 2026, and add cost for NHS Login as an integration rather than a five-week submission.
+Planning figure for Stage 3: £55–95k assuming NHS Login is scoped as a Stage 6 integration if the April bar only delivered an ORCHA submission. If NHS Login is in v1, use the high end of the table.
+The Gantt already funds two 26-week studies from July to December 2026. That is the right shape. It is not yet the full NICE evidence set. Gantt claim slot: TBD — pending Sara paste. Do not open a filled clinical claim on the empty “[Other]” row.
+4e is shown at the low end if it is a modest feasibility cohort already funded inside the 26-week bar; rebuild bottom-up from the actual protocol. Pregnancy in/out: TBD — pending Sara paste. Do not spend CER or labelling budget as if that slot were filled.
+The Gantt’s April “NICE ESF alignment” and “NICE compliance” bars are dossier hygiene. They are not topic selection. Early-use HealthTech guidance still runs through the NHS Innovation Service under PMG48. From April 2026 NICE can take selected digital tools through Technology Appraisal; NICE still chooses the topic. Register Lazoo now. Clinical claim for any HIN briefing: TBD — pending Sara paste. Do not brief a triage claim or a CBT-I claim. Rebuild the health-economic model on UCL-study numbers rather than the older £384m pathway figure unless that figure still survives a Lazoo-only sensitivity. The Gantt label “NICE compliance” is the chart’s own name. This pack is not a compliance statement.
+Funding unchanged: economist £22–38k, submission support £10–18k, PPI £4–8k, EAG contingency £9–16k.
+The Gantt already ran NHS and B2B campaigns in April–June 2026, before a mark and before study readout. That is a commercial choice. For this Class IIa planning note the safe offer in that window is evaluation access and G-Cloud presence. Clinical claims: TBD — pending Sara paste. Do not sell a filled claim. This roadmap does not mark the product UKCA or CE.
+Complete the UCL analysis on the Gantt. Pregnancy analyses stay unfilled. Pregnancy in/out: TBD — pending Sara paste. Adding sites is planning only.
+PMCF as written in the technical file — legal, not optional.
+G-Cloud / framework call-off using the May procurement pack.
+NHS Login if it was deferred from the April bar.
+Funding unchanged in envelope: RWE £120–200k, procurement £15–30k, PMS/PMCF £20–35k, HE refresh £15–25k, assurance upkeep £10–20k.
+Nothing on the attached chart reaches a Technology Appraisal. That is expected. TA or routine-use HealthTech guidance needs comparative effectiveness, cost-effectiveness at £20–30k/QALY, multi-ICS implementation, a defensible NHS price, and equality data. Design the UCL study and the WatchPAT row so a 2028 committee can read them. Submission envelope £70–130k as before.
+4. Consolidated funding picture
+Midpoint to take into an i4i outline: withdrawn until the Stage 2 Class IIa quotes are in (the earlier £1.5–1.7 million used previous-class pricing). The uplift versus the previous draft is the pregnancy study and a more honest NHS Login line. Still excluded: CBT-14 hardware, consumer growth marketing, EU CE unless a distributor appears, adaptive AI.
+5. Capital stack
+6. Integrated Gantt — attached plan plus the NICE tail
+Amber (■) = attached Gantt window that has already closed or is at risk. Teal (●) = full activity. Light (○) = residual / submission / surveillance. Year columns are half-years from the point of this revision.
+25 H2 and 26 H1 are the attached Gantt. From 26 Q3 the calendar is this roadmap. If a Mar–Jun bar is not actually closed, paint it teal in 26 Q3–Q4 rather than amber.
+7. Risks the attached Gantt introduces
+8. Ninety-day plan from 5 September 2026
+9. Decisions this revision is asking for
+Re-baseline the attached Gantt this month. Do not take a slipped Mar–Jun bar into i4i as “done”.
+Open an MHRA work package on the next plan. A 0-week line is not a Class IIa plan. No mark is held.
+Treat the 16-week UKCA bar as file assembly only. No certificate is held. This pack is not UKCA or CE.
+Pregnancy in/out: TBD — pending Sara paste. Do not fill it in this revision.
+Do not fill or fund a WatchPAT clinical claim. Gantt claim slot: TBD — pending Sara paste.
+Keep campaigns on evaluation language. Clinical claims: TBD — pending Sara paste. No UKCA or CE mark is on the build.
+Publish a 2027–28 tail. The attached chart cannot be the last Gantt the company shows NICE.
+File the i4i October 2026 outline against this mapped budget, with the live UCL study as the evidence spine.
+10. Document control
+Revision A of the Lazoo roadmap, aligned 5 October 2026. Working class SaMD Class IIa (class 2a). Planning document only. Not a classification opinion, not an Approved Body submission, not a NICE file, and not an i4i application. Pack OPEN. Not UKCA. Not CE. Not a compliance statement. Figures are 2026 envelopes and must be rebuilt from actual study protocols and a re-baselined Gantt before any bid.
+Sources: attached operational Gantt (Oct 2025–Dec 2026); attached Lazoo development-cost table and pathway decks; NICE HealthTech programme manual PMG48; April 2026 expansion of Technology Appraisals to digital health; MHRA standalone-software and digital mental-health classification guidance; UK MDR 2002 conformity assessment (working class SaMD Class IIa; this source line is not a new legal conclusion and not a mark); NHS DTAC, DCB0129/0160, ORCHA and G-Cloud practice; existing CBT-14 workplan. CBT-14 hardware remains a separate hardware workplan, as already stated. It is not a second Lazoo layer. Its purpose is not filled here.
+End of Revision A.
+Manufacturer | ~~Sleep and Health Clinic App Ltd~~ SHC Sleep Solutions Limited
+Product | Lazoo (app name only). Clinical claims: TBD — pending Sara paste.
+Intended class | SaMD Class IIa (class 2a). Not marked UKCA. Not marked CE. Not a compliance statement. MHRA row on the attached Gantt is currently 0 weeks — that is a gap.
+NICE destination | Early-use HealthTech guidance, then Technology Appraisal / routine-use recommendation
+Operational calendar | Attached Gantt: Oct 2025 – Dec 2026. Today is 5 Sep 2026 (approx. CW 36). Studies bar should be live. Tech/reg/sales bars on that chart have closed.
+Planning horizon | Attached Gantt ends Dec 2026. NICE TA is 2027–28 work — this revision extends the calendar.
+Indicative cash need | to be restated once Stage 2 Class IIa quotes are in (earlier £1.30m–£2.01m withdrawn)  ·  attached productisation £294k is Stage 1 only
+Revision | A — 5 September 2026. Incorporates the attached 2025–26 work-package Gantt, UCL sleep study, pregnancy study, ORCHA, G-Cloud, NHS Login.
+Swimlane | Work package | CW | Planned window | Class IIa planning note (not a mark)
+Prel. | App improvements | 5 | Nov–Dec 2025 | MVP hardening. Past.
+Prel. | PoC (Listening Lab) | 6 | Jan–Feb 2026 | PPI / formative input. Past.
+Tech | UI / UX / back-end / API / platform security | 16 each | Mar–Jun 2026 (W10–26) | This is Stage 1 of the SaMD roadmap. Window has closed on the chart.
+Tech | Testing | 4 | Four bursts in Mar–Jun | Too light for IEC 62304 verification. Needs a standing test stream.
+Regulatory | DTAC | 8 | Feb–Mar + May 2026 | Right items, split bar. Must be kept live after May.
+Regulatory | DPIA + GDPR / DSPT prep | 6 | Feb–Mar 2026 | Stage 3. DSPT is annual, not a six-week job.
+Regulatory | Accessibility (WCAG) + usability evidence | 6 | Feb–Mar 2026 | Matches the attached £28k accessibility line. Formative only unless summative is added.
+Regulatory | FHIR UK Core mapping + API spec | 3 | Mar 2026 | Confirms the attached £14k API line is under-scoped. Spec only.
+Regulatory | CREST pen-test | 3 | Mar 2026 | DTAC technical-security evidence. Retest after material change.
+Regulatory | NICE ESF alignment + NICE compliance | 3 + 3 | Apr 2026 | Gantt bar name only. Dossier hygiene, not topic selection. This pack is not a compliance statement. Early-use is a later clock.
+Regulatory | NHS Login / ORCHA submission | 5 | Apr 2026 | ORCHA helps ICS conversations. NHS Login is an integration, not a form.
+Regulatory | G-Cloud listing + procurement pack | 3 | May 2026 | Commercial rail for Stage 6. Useful even before TA.
+Regulatory | CE / UKCA progression (Gantt bar name; SaMD Class IIa; no mark held) | 16 | Mar–early Jul 2026 | Optimistic if read as a certificate date. No certificate is held. This pack is not UKCA or CE.
+Regulatory | MHRA | 0 | Not scheduled | Gap. Registration is required before the device is placed on the Great Britain market. Open this line.
+Sales | NHS / B2B pre-sales then campaign; B2C; internet | 13 each | Pre-sales Jan–Mar; campaigns Apr–Jun | Do not sell a clinical claim. Claims: TBD — pending Sara paste. Campaigns can sell evaluation access only. This file does not mark UKCA or CE.
+Studies | UCL sleep study | 26 | Jul–Dec 2026 (W27–52) | Window as dated 5 Sep 2026. Purpose is TBD — pending Sara paste. Do not match a protocol to a filled purpose.
+Studies | Pregnancy study | 26 | Jul–Dec 2026 (W27–52) | Pregnancy in/out: TBD — pending Sara paste.
+Studies | [Other] | 0 | Empty | Gantt claim slot for this row: TBD — pending Sara paste. Do not fill a WatchPAT or other clinical claim here.
+STAGE 0 | Purpose left open — and a Gantt re-baseline | Sep–Oct 2026 | £18–32k
+STAGE 1 | Tech developments on the Gantt + attached £294k build | Planned Mar–Jun 2026; close-out now | £334–364k
+Attached cost line | Gantt package | Base £k | Total £k | Close-out test
+Help text + tech detail | UI / UX | 10 | 14 | Becomes IFU + in-app safety copy under IEC 62366.
+Languages | UI | 10 | 14 | English + one NHS language in v1. Each language is labelling.
+Accessibility | WCAG + usability bar | 20 | 28 | WCAG 2.2 AA evidence pack, not a theme tweak.
+AI algorithms | Back-end | 50 | 70 | Model build note (not a document freeze; pack stays OPEN). Performance claim: TBD — pending Sara paste.
+Push sync (GDPR) | Back-end + DPIA | 25 | 35 | Lawful basis + DCB0129 hazard for missed clinician notice.
+Patient dashboard | UI / UX | 40 | 56 | 2021 screens on a 62304 codebase. Sleep-module parity.
+Physician dashboard | UI + report PDF | 25 | 35 | Terry’s report structure is an acceptance test.
+API | API + FHIR spec (3w) | 10 | 14 | Hold a £20–30k reserve for FHIR implementation beyond spec.
+Jurisdiction / hosting | Platform security | 20 | 28 | UK residency. Matches platform-security bar.
+ATTACHED TOTAL | Tech swimlane | 210 | 294 | Do not add a second tech budget on top of this table.
+STAGE 2 | QMS work toward a future mark for Class IIa (the 16-week bar is file assembly only; no UKCA or CE mark is held) | Now → mid-2027 | Needs a written Class IIa quote
+STAGE 3 | DTAC, ORCHA, NHS Login, G-Cloud, AI register | On Gantt Feb–May; keep-alive now | £55–95k
+Item (from Gantt unless noted) | Low £k | High £k | Note
+DTAC pack + keep-alive | 8 | 16 | 8 CW on chart is assembly only
+DPIA, DSPT, DPA | 6 | 12 | Annual DSPT thereafter
+CSO + DCB0129 / 0160 guide | 12 | 22 | Not a named Gantt row — add it
+CREST pen-test + retest | 6 | 12 | 3 CW on chart is one test
+ORCHA submission + year-1 listing | 4 | 8 | On the NHS Login/ORCHA bar
+NHS Login integration | 15 | 40 | 5 CW on the chart will not buy this
+G-Cloud listing + procurement pack | 4 | 8 | May bar — confirm it is live
+NICE ESF / compliance pack | 4 | 8 | April bars — input to Stage 5
+AI register / change-control file | 3 | 7 | Named in the Lazoo deck, not the Gantt
+STAGE 3 TOTAL (revised) | 62 | 133 | Midpoint used below: £55–95k if NHS Login is phased
+STAGE 4 | Studies swimlane + the missing WatchPAT row | Jul 2026 – mid-2027 | £360–620k (internal estimate)
+Study | Source | Question | Planning note (pack is not UKCA or CE)
+4a Summative usability | Extend WCAG/usability bar | TBD — pending Sara paste. | IEC 62366 close-out; DTAC usability domain.
+4b UCL sleep study | On Gantt, 26 weeks | TBD — pending Sara paste. | Primary CER input and early-use clinical file. Must finish to protocol.
+4c WatchPAT concordance | Not on Gantt — use [Other] | TBD — pending Sara paste. | TBD — pending Sara paste. Do not describe Lazoo as a wellness diary.
+4d Pathway pilot (extra sites) | After UCL study | TBD — pending Sara paste. | Early-use evidence-generation engine.
+4e Pregnancy study | On Gantt, 26 weeks | TBD — pending Sara paste. | Pregnancy in/out: TBD — pending Sara paste.
+Stage 4 item | Low £k | High £k
+4a summative usability | 18 | 28
+4b UCL sleep study (26-week Gantt bar — site, research nurse, analysis) | 90 | 160
+4c WatchPAT concordance (devices, scoring, 80–120 patients) | 70 | 120
+4d additional pathway sites | 100 | 170
+4e pregnancy study (26-week Gantt bar) | 70 | 120
+Statistics, monitoring, open-access papers | 12 | 22
+STAGE 4 TOTAL | 360 | 620
+STAGE 5 | NICE early-use (the April ESF bars were not this) | Oct 2026 – late 2027 | £45–80k
+STAGE 6 | RWE, G-Cloud pull-through, sales discipline | 2027 | £180–310k
+STAGE 7 | NICE TA / routine-use — after this Gantt ends | Late 2027 – 2028 | £70–130k
+Stage | Low £k | High £k | Gantt hook | Payer
+0 Purpose + re-baseline | 18 | 32 | Not on chart | Founder / angel
+1 Attached build + 62304 overlay | 334 | 364 | Tech W10–26 | i4i + match
+2 QMS work for Class IIa (no mark held) | Needs a written Class IIa quote | Needs a written Class IIa quote | UKCA 16w + MHRA 0 | i4i / Innovate UK
+3 DTAC / ORCHA / Login / G-Cloud | 55 | 95 | Reg Feb–May | i4i + company
+4 Studies incl. UCL + pregnancy + WatchPAT | 360 | 620 | Studies W27–52 | i4i / NIHR / site
+5 Early-use dossier | 45 | 80 | After ESF bars | i4i HE package
+6 RWE + procurement | 180 | 310 | Beyond Dec 2026 | i4i Connect / sales
+7 TA / routine-use | 70 | 130 | 2027–28 | Company + follow-on
+PM, PPI, overhead | — | — | All | Not restated (old 12% line included withdrawn Stage 2)
+PROGRAMME TOTAL | Withdrawn until Stage 2 Class IIa quotes are in | Withdrawn until Stage 2 Class IIa quotes are in | to 2028 | Section 5
+Source | Fits | Notes
+Founder / angel | 0, re-baseline, i4i match | £80–150k through the October outline. Do not sell 25% for this.
+NIHR i4i PDA (7 Oct–2 Dec 2026) | 1–5, and the live UCL study | Primary target. The Gantt’s live studies are the evidence story. Name UCL as partner.
+Innovate UK / BMC | 1–2 if i4i slips | Bridge only. Do not dual-bid in the same month.
+i4i Connect / ICS eval / SBRI | 4d, 6 | Extra sites after UCL readout.
+G-Cloud / NHS contract | 6–7 | Evaluation licence first. Campaigns already on the Gantt must not over-claim.
+Workstream | 25 H2 | 26 H1 | 26 Q3 | 26 Q4 | 27 Q1 | 27 Q2 | 27 Q3 | 27 Q4 | 28 H1 | 28 H2
+Prel. + Listening Lab | ■ |  |  |  |  |  |  |  |  | 
+Tech UI/UX/API/security |  | ■ | ○ |  |  |  |  |  |  | 
+DTAC / DPIA / WCAG / CREST |  | ■ | ○ | ○ | ○ |  |  |  |  | 
+ORCHA / G-Cloud pack |  | ■ | ○ |  | ○ | ○ |  |  |  | 
+NHS Login (if deferred) |  | ■ |  |  | ● | ● | ○ |  |  | 
+UKCA file + Approved Body |  | ■ | ● | ● | ● | ● | ○ |  |  | 
+MHRA registration (was 0) |  |  | ● | ○ | ● | ○ |  |  |  | 
+UCL sleep study (on Gantt) |  |  | ● | ● | ○ |  |  |  |  | 
+Pregnancy study (on Gantt) |  |  | ● | ● | ○ |  |  |  |  | 
+WatchPAT concordance (add) |  |  |  | ● | ● | ○ |  |  |  | 
+Pathway sites + RWE |  |  |  |  | ○ | ● | ● | ● | ○ | 
+Sales — evaluation only |  | ■ | ○ | ○ | ● | ● | ● | ○ |  | 
+Early-use engagement |  | ○ | ● | ● | ● | ● | ○ |  |  | 
+TA / routine-use |  |  |  |  |  |  | ○ | ● | ● | ●
+i4i outline → award |  |  | ● | ● | ○ | ● |  |  |  | 
+Risk | Why it matters | Counter-move
+MHRA = 0 weeks | No registration plan. A UKCA bar without an MHRA line is not a finished plan. No mark is held. | Open a named MHRA work package this month.
+UKCA bar only 16 weeks | Approved Body review does not fit. File-complete will be sold as certificate-complete. | Split “file assembly” from “AB review”. Certificate date: needs a written Approved Body quote.
+Testing = 4 bursts | IEC 62304 wants a verification programme, not four weekly spikes. | Standing test stream through study close.
+Campaigns before UKCA | NHS/B2C/B2B campaigns Apr–Jun 2026 sit before a mark. | Sell evaluation access only. No diagnostic language in ads.
+Pregnancy on the critical path | Pregnancy in/out is unfilled, so this row must not widen or narrow a purpose. | Pregnancy in/out: TBD — pending Sara paste. Do not fill it here.
+WatchPAT row empty | Gantt claim slot: TBD — pending Sara paste. | Do not fund a filled clinical claim. Claim slot: TBD — pending Sara paste.
+Gantt stops Dec 2026 | NICE TA is not a 2026 event. The company will look unfinished. | Adopt the 2027–28 tail in section 6 as the next published Gantt.
+NICE CBT-I multi-tech Jan 2027 | Do not frame a treatment claim in this file. | TBD — pending Sara paste. Do not fill a treatment or triage claim.
+Week | Action | Hooks the Gantt
+1–2 | Re-baseline every Mar–Jun bar as done / partial / slipped. Do not freeze the intended purpose. Purpose and pregnancy in/out: TBD — pending Sara paste. | Honest status for i4i and AB
+2–3 | Classification opinion. Open the MHRA line. Request Innovation Office conversation. | MHRA was 0 weeks
+2–4 | UCL sleep-study protocol check against the purpose. Same for pregnancy study. | Studies W27–52 live now
+3–5 | Confirm DTAC / ORCHA / G-Cloud artefacts actually exist from the spring bars. Fill holes. | Reg swimlane keep-alive
+4–6 | Do not draft a filled WatchPAT claim. Gantt claim slot: TBD — pending Sara paste. | Gantt claim slot still TBD — pending Sara paste.
+5–8 | NHS Innovation Service registration. HIN briefing. Clinical claim: TBD — pending Sara paste. Do not brief a filled triage claim or a CBT-I claim. | After April ESF bars
+6–12 | i4i outline using this staged budget, UCL as named partner, Gantt re-baseline as the delivery plan. | Closes 2 Dec 2026 13:00
