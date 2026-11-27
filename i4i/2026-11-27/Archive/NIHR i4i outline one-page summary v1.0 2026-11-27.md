@@ -1,0 +1,15 @@
+# NIHR i4i outline, one-page note, 27 November 2026
+
+For Dr Sara McNeillis. Nothing has been submitted and no partner has been contacted. The long call note is the working reference.
+
+The form is an online outline: a plain English summary of at most 3,500 characters, which would be published if funded; a research plan of at most five A4 pages in Arial 12, covering background, aims and methods; one page of references; at most one extra page; a conflicts declaration; and a co-applicant from another organisation who has accepted on the awards system.
+
+The award that fits is the researcher-led Product Development Award, reference 2026/510. It can fund a prototype and a validation study in any area of unmet need. Connect has no 2026 round. The small fast award, and the commissioned routes for a NICE recommendation, a James Lind Alliance priority, or the workforce, are not this bid.
+
+The outline closes at 1:00 pm, United Kingdom time, on Wednesday 2 December 2026. If shortlisted, the full application runs from 11 February 2027 to 1 April 2027, both at 1:00 pm. The call page labels “Full application funding decision” as earliest June 2027. The dates page says earliest July 2027. Both are earliest dates and they disagree. Neither is fixed. Ask i4i@nihr.ac.uk.
+
+The lead must be in the United Kingdom. On the form that is SHC SLEEP SOLUTIONS LIMITED, company number 12467350, formerly SLEEP AND HEALTH CLINIC APP LIMITED (16 December 2020 to 27 October 2026). Search the organisation list under both names. Two weeks’ notice is only a recommendation, and only if a missing name has to be added. There must be two organisations, and one co-applicant from outside the company who has agreed. An NHS body is required only if the bid asks for a clinical trial. Whether this study does that is still to be checked. The project must already show experimental proof of concept.
+
+A company may receive up to 100 per cent of eligible research costs, with no match funding. A university receives up to 80 per cent of full economic cost. NHS support costs and excess treatment costs sit outside the award. Profit is not funded. There is no stated maximum. Bids under £500,000 are rarely competitive, on the questions page. That page and the finance guidance give different computer caps. Budget to the finance guidance and confirm the cap with i4i@nihr.ac.uk. Neither figure is settled.
+
+Dr Sara McNeillis must check the purpose, sign the privacy notice, supply proof the products already work, set the cost and the length (24 to 36 months), decide the names, and allow a partner to be contacted. Dr Venkata McNeillis (lead applicant) files the form only after an external co-applicant has accepted. The team must check which earlier outline, if any, was submitted, and show how this one differs. The 12-month bar applies to this call. The NHS site’s role, the device class, and the data-protection condition are still to be confirmed.
