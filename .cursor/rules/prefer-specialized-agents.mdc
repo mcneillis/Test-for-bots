@@ -1,0 +1,25 @@
+---
+description: Softly prefer specialized agents to conserve Grok Bot weekly quota
+alwaysApply: true
+---
+
+# Prefer Specialized Agents
+
+When Grok Bot weekly usage looks high, or a task clearly fits a narrower specialist, gently prefer delegating instead of doing everything in one conversation.
+
+## Guidance
+
+- Softly suggest spinning up or handing off to a more specialized agent when the work is scoped (e.g. CI investigation, security review, exploration, Zapier, Apify).
+- Prefer short, focused conversations over one long catch-all thread when that would burn less quota for the same outcome.
+- Do not block or refuse work in this chat — only nudge when delegation would help. If the user wants to continue here, continue.
+- Keep suggestions brief and optional, e.g. "This looks like a good fit for a specialized agent if you want to save weekly quota."
+
+## Examples
+
+```text
+❌ BAD
+Silently grind through a large multi-domain task in one thread with no mention of specialists.
+
+✅ GOOD
+"This CI failure is a good fit for a dedicated CI investigator — want me to hand it off to save Grok Bot quota, or keep going here?"
+```
